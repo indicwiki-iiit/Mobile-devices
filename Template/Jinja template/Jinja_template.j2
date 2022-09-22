@@ -1,0 +1,240 @@
+{%- macro description(article_description_trans) -%}
+	{{-'{{Short description|' ~article_description_trans~'}}'-}} 
+{%- endmacro -%}
+
+{%- macro infobox(device_img_wikilink, maker_name_trans, device_name_trans, body_sim_trans, display_type_category_trans, features_sensors_trans, banner_chipset_hl_trans, network_technology_trans, network_2g_bands_trans, network_3g_bands_trans, network_4g_bands_trans, comms_usb_trans, comms_bluetooth_trans, comms_wlan_trans,  sound_loudspeaker_trans, sound_35mm_jack_trans, display_protection_trans, colors_trans, platform_cpu_trans, platform_gpu_trans, memory_card_slot_trans, batsize_trans, bat_type_trans, main_camera_single_trans, selfie_camera_single_trans) -%}
+
+	{{'{{Infobox  mobile phone'}}
+| name         = {{maker_name_trans}} {{device_name_trans}}
+| image        = {{device_img_wikilink}}
+| manufacturer = {{maker_name_trans}}
+| colors       = {{colors_trans}}
+| networks     =  '''{{network_technology_trans}}''' <br /> {{network_2g_bands_trans}} <br /> {{network_3g_bands_trans}} <br /> {{network_4g_bands_trans}}
+| soc          = {{banner_chipset_hl_trans}}
+| cpu          = {{platform_cpu_trans}}
+| gpu          = {{platform_gpu_trans}}
+| memory_card  = {{memory_card_slot_trans}}
+| sim          = [[{{body_sim_trans}}]]
+| battery      = {{batsize_trans}} मिलीएम्पियर <br /> [[{{bat_type_trans}}]]
+| input        = {{features_sensors_trans}}
+| display      = [[{{display_type_category_trans}}]]
+| rear_camera  = {{main_camera_single_trans}}
+| front_camera = {{selfie_camera_single_trans}}
+| sound        = [[विस्तारक यंत्र]] {{sound_loudspeaker_trans}}, ३.५ मिलीमीटर [[हेडफोन जैक]] {{sound_35mm_jack_trans}}
+| connectivity = {{comms_bluetooth_trans}} <br /> {{comms_usb_trans}} <br /> {{comms_wlan_trans}}
+| other        = {{display_protection_trans}}
+{{'}}\n'}}
+{%- endmacro -%}
+
+{%- macro intro(maker_name,  device_name, maker_name_trans,  device_name_trans,  reference_link, launch_announced_trans, body_sim_trans,   display_type_trans, body_x_trans , body_y_trans, body_z_trans, display_size_trans , display_resolution_trans, display_resolution, display_protection_trans, display_protection, weight_trans, colors_trans, sound_loudspeaker_trans, sound_35mm_jack_trans,  features_sensors_trans) -%}
+
+	{{maker_name_trans}} {{device_name_trans}} ({{maker_name}} {{device_name}})
+	{{- '<ref>https://www.wikidata.org/wiki/Q19723451</ref>' -}}
+	{%- if launch_announced_trans!=''-%}
+		{{-' को ' ~launch_announced_trans~' '-}}  
+	{%- endif -%}
+
+{{-[
+	' को ' ~maker_name_trans~ ' द्वारा लॉन्‍च किया गया था। यह एक ' ~body_sim_trans~ ' डिवाइस है जिसमें ' ~display_type_trans~ ' है। डिवाइस की ',
+	' को ' ~maker_name_trans~ ' द्वारा लॉन्‍च किया गया था। डिवाइस एक '~body_sim_trans~' डिवाइस है जिसमें '~display_type_trans~ ' होता है। डिवाइस की '
+      ] |random -}}
+      
+ 	{%- if body_x_trans!=''-%}
+		{{- ' लंबाई ' ~body_x_trans~ ' मिलीमीटर '-}}
+	{%- endif -%}
+	   
+  	{%- if body_y_trans!=''-%}
+		 {{- ', चौड़ाई ' ~body_y_trans~ ' मिलीमीटर '-}} 
+	{%- endif -%}
+	   
+	 {%- if body_z_trans!=''-%}
+		 {{- ', और ' ~body_z_trans~ ' मिलीमीटर मोटी '-}}
+	{%- endif -%}
+है। इस डिवाइस का 
+   	{%- if display_size_trans!=''-%}
+		 {{- ' प्रदर्शन ' ~display_size_trans~ ' है '-}}
+	{%- endif -%}
+	{%- if display_resolution_trans!=''-%}
+		  {{- ' जिसका रिज़ॉल्यूशन '~display_resolution_trans~ ' ('~display_resolution~') है। ' -}}
+	{%- endif -%}
+	{%- if display_protection_trans!=''-%}
+		{{-[
+		  ' इस्कि डिस्प्ले '~display_protection_trans~ ' ('~display_protection~') द्वारा सुरक्षित है, ',
+		  ' डिस्प्ले को सुरक्षा '~display_protection_trans~' ('~display_protection~') द्वारा दी जाती है, '
+		] |random -}}
+	{%- endif -%}
+	{%- if weight_trans!=''-%}
+		{{- ' और इसका वजन लगभग '~weight_trans~ ' ग्राम है। '-}}
+	{%- endif -%}
+	{%- if colors_trans!=''-%}
+		{{-[
+		' यह ' ~colors_trans~ ' कलर में उपलब्ध है। ',
+		' डिवाइस '~colors_trans~' रंगों में बेचा जाता है। '
+		] |random -}}
+	{%- endif -%}
+	
+{{- "\n\n" -}}
+
+{{- 'डिवाइस में [[w:hi:लाउडस्पीकर|लाउस्पीकर]] '~sound_loudspeaker_trans~', और ३.५ मिलीमीटर [[w:hi:हेडफ़ोन|हैडफ़ोन जैक]] '~sound_35mm_jack_trans~'। '-}}
+	{%- if features_sensors_trans!=''-%}
+		{{-[
+		' डिवाइस पर लगे कुछ सेंसर - ' ~features_sensors_trans~ ' हैं। ',
+		' डिवाइस में कुछ सेंसर हैं जैसे '~features_sensors_trans~'। '
+		] |random -}}
+	{%- endif -%}
+
+{%- endmacro -%}
+
+{%- macro hardware(maker_name_trans,  device_name_trans,  platform_chipset_trans, platform_chipset, platform_cpu_trans, platform_gpu_trans, memory_internal_trans, memory_card_slot_trans, memory_card_slot,  batsize_trans, bat_type_trans, bat_type, battery_stand_by_trans ) -%}
+
+	{{maker_name_trans}} {{device_name_trans}}
+	{{- ' <ref>'~reference_link~'</ref> ' -}}
+	{%- if platform_chipset_trans!=''-%}
+		{{-[
+		' को पावर एक '~platform_chipset_trans~ ' ('~platform_chipset~') चिपसेट देता है। ',
+		' एक '~platform_chipset_trans~' ('~platform_chipset~') चिपसेट द्वारा संचालित है। '
+		] |random -}}
+	{%- endif -%}
+डिवाइस के पास
+	{%- if platform_cpu_trans!=''-%}
+		{{- ''~platform_cpu_trans~ ' सीपीयू (CPU) और ' -}} 
+	{%- endif -%}
+	{%- if platform_gpu_trans!=''-%}
+		{{- ' एक ' ~platform_gpu_trans~ ' जीपीयू (GPU) तक पहुंच है। '-}}
+	{%- endif -%}
+	{%- if memory_internal_trans!=''-%}
+		{{- ' इसमें आंतरिक मेमोरी '~memory_internal_trans~' है, और '-}}
+	{%- endif -%}
+{{- ' इसे '~memory_card_slot_trans~ ' ('~memory_card_slot~') द्वारा आगे बढ़ाया जा सकता है। इनबिल्ट बैटरी एक '-}}
+	{%- if batsize_trans!=''-%}
+		{{- ''~batsize_trans~ ' मिलीएम्पियर ' -}}
+	{%- endif -%}
+	{%- if bat_type_trans!=''-%}
+		{{- ''~bat_type_trans~ ' ('~bat_type~') '-}} 
+	{%- endif -%}
+बैटरी है।
+	{%- if battery_stand_by_trans!=''-%}
+		{{- ' इसका स्टैंडबाय टाइम' ~battery_stand_by_trans~ ' है। '-}}
+	{%- endif -%}
+	
+{%- endmacro -%}
+
+{%- macro network(maker_name_trans,  device_name_trans,  network_technology_trans, network_technology, network_2g_bands_trans, network_3g_bands_trans, network_4g_bands_trans, network_gprs_trans, network_edge_trans) -%}
+
+ 	{%- if network_4g_bands_trans=='' and network_3g_bands_trans==''  and network_2g_bands_trans==''-%}
+ 		{%- set f = '' -%}
+ 	{%- elif network_4g_bands_trans=='' and network_3g_bands_trans==''  and network_2g_bands_trans!=''-%}
+ 		{%- set f = '२जी' -%}
+ 	{%- elif network_4g_bands_trans=='' and network_3g_bands_trans!=''-%}
+ 		{%- set f = '३जी' -%}
+ 	{%- else -%}
+ 		{%- set f = '४जी' -%}
+	{%- endif -%}
+	
+	{{-[
+	'नेटवर्क विभाग में, '~maker_name_trans~' ' ~device_name_trans~' में '~network_technology_trans~' ('~network_technology~') है। यह '~f~' तक [[w:hi:परा_उच्च_आवृति|नेटवर्क बैंड]] को सपोर्ट कर सकता है। ',
+	'नेटवर्क क्षेत्र में, '~maker_name_trans~' ' ~device_name_trans~' में '~network_technology_trans~' ('~network_technology~') है। यह '~f~' [[w:hi:परा_उच्च_आवृति|नेटवर्क बैंड]] तक सपोर्ट करने में सक्षम है। '
+	] |random -}}
+	
+	{%- if network_2g_bands_trans!=''-%}
+		{{- ' समर्थित २जी बैंड '~network_2g_bands_trans~' हैं '-}}
+	{%- endif -%}
+	{%- if network_3g_bands_trans!=''-%}
+		{{- ',  समर्थित ३जी बैंड '~network_3g_bands_trans~' हैं '-}}
+	{%- endif -%}
+	{%- if network_4g_bands_trans!=''-%}
+		{{-', और समर्थित ४जी बैंड '~network_4g_bands_trans~' हैं। '-}} 
+	{%- endif -%}
+	{%- if network_gprs_trans!=''-%}
+		{{-' डिवाइस जीपीआरएस (GPRS) सक्षम '~network_gprs_trans~'' -}}
+	{%- endif -%}
+	{%- if network_edge_trans!=''-%}
+		{{- ' और एद्गे (EDGE) तकनीक '~network_edge_trans~'। '-}}
+	{%- endif -%}
+	
+{%- endmacro -%}
+
+{%- macro camera(main_camera_single_trans, main_camera_features_trans, main_camera_features, main_camera_video_trans, main_camera_video, selfie_camera_single_trans) -%}
+
+	{%- if main_camera_single_trans!=''-%}
+		{{-[
+		'मौजूद मुख्य कैमरा '~main_camera_single_trans~' का है ',
+		'डिवाइस के मुख्य कैमरे में '~main_camera_single_trans~' है '
+		] |random -}}
+	{%- endif -%}
+	{%- if main_camera_features_trans!=''-%}
+		{{- 'और इसमें '~main_camera_features_trans~ ' ('~main_camera_features~') है। ' -}}
+	{%- endif -%}
+	{%- if main_camera_video_trans!=''-%}
+		{{-[
+		'इस कैमरे द्वारा लिया गया वीडियो '~main_camera_video_trans~' ('~main_camera_video~') है। ',
+		'कैमरा '~main_camera_video_trans~' ('~main_camera_video~') के वीडियो ले सकता है। '
+		] |random -}}
+	{%- endif -%}
+	{%- if selfie_camera_single_trans!=''-%}
+		{{- 'डिवाइस का प्राइमरी सेल्फी कैमरा '~selfie_camera_single_trans~' रेजोल्यूशन का है। '-}}
+	{%- endif -%}
+	
+{%- endmacro -%}
+
+{%- macro communications(maker_name_trans, device_name_trans, comms_wlan_trans, comms_wlan, comms_bluetooth_trans, comms_gps_trans, comms_radio_trans, comms_usb_trans, comms_usb) -%}
+
+	{{- ''~maker_name_trans~' ' ~device_name_trans~' में '~comms_wlan_trans~' ('~comms_wlan~') '-}}
+
+	{%- if comms_bluetooth_trans!=''-%}
+		{{- ' और ब्लूटूथ '~comms_bluetooth_trans~''-}}
+	{%- endif -%}
+है। 
+	{%- if comms_gps_trans!=''-%}
+		{{- ' जीपीएस '~comms_gps_trans~'  है और '-}}
+	{%- endif -%}
+	{%- if comms_radio_trans!=''-%}
+		{{- ' रेडियो '~comms_radio_trans~'  है। '-}}
+	{%- endif -%}
+	{%- if comms_usb_trans!=''-%}
+		{{- ' इसके अलावा, इसमें '~comms_usb_trans~' ('~comms_usb~') है। '-}}
+	{%- endif -%}
+	
+{%- endmacro -%}
+
+{%- macro references() -%}
+
+	{{-'{{reflist}}'-}}
+	
+{%- endmacro -%}
+
+{%- macro category() -%}
+
+	[[श्रेणी: मोबाइल‏‎]]
+[[श्रेणी: मोबाइल डिवाइस ]]	
+[[श्रेणी: मोबाइल फोन के निर्माताएं‏‎ ]]
+[[श्रेणी: मोबाइल संचालन प्रणाली‏‎ ]]
+[[श्रेणी: मोबाइल सेवा‏‎ ]]
+
+{%- endmacro -%}
+
+
+{# Function Calls Below#}
+
+{{- description(article_description_trans) }}
+
+{{ infobox(device_img_wikilink,maker_name_trans, device_name_trans, body_sim_trans, display_type_category_trans, features_sensors_trans, banner_chipset_hl_trans, network_technology_trans, network_2g_bands_trans, network_3g_bands_trans, network_4g_bands_trans, comms_usb_trans, comms_bluetooth_trans, comms_wlan_trans,  sound_loudspeaker_trans, sound_35mm_jack_trans, display_protection_trans, colors_trans, platform_cpu_trans, platform_gpu_trans, memory_card_slot_trans, batsize_trans, bat_type_trans, main_camera_single_trans, selfie_camera_single_trans) }}
+
+{{ intro(maker_name,  device_name, maker_name_trans,  device_name_trans,  reference_link, launch_announced_trans, body_sim_trans,   display_type_trans, body_x_trans , body_y_trans, body_z_trans, display_size_trans , display_resolution_trans, display_resolution, display_protection_trans, display_protection, weight_trans, colors_trans, sound_loudspeaker_trans, sound_35mm_jack_trans,  features_sensors_trans) }}
+
+{{'==हार्डवेयर =='}}
+{{ hardware(maker_name_trans,  device_name_trans,  platform_chipset_trans, platform_chipset, platform_cpu_trans, platform_gpu_trans, memory_internal_trans, memory_card_slot_trans, memory_card_slot,  batsize_trans, bat_type_trans, bat_type, battery_stand_by_trans ) }}
+
+{{'==नेटवर्क=='}}
+{{ network(maker_name_trans,  device_name_trans,  network_technology_trans, network_technology, network_2g_bands_trans, network_3g_bands_trans, network_4g_bands_trans, network_gprs_trans, network_edge_trans) }}
+
+{{'==कैमरा=='}}
+{{ camera(main_camera_single_trans, main_camera_features_trans, main_camera_features, main_camera_video_trans, main_camera_video, selfie_camera_single_trans) }}
+
+{{'==संचार=='}}
+{{ communications(maker_name_trans, device_name_trans, comms_wlan_trans, comms_wlan, comms_bluetooth_trans, comms_gps_trans, comms_radio_trans, comms_usb_trans, comms_usb) }}
+
+{{'==संचार=='}}
+{{ references() }}
+
+{{ category() -}}

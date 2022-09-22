@@ -1,0 +1,749 @@
+item,itemLabel,image
+http://www.wikidata.org/entity/Q3849,Sony Ericsson M600,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Ericsson%20M600.jpg
+http://www.wikidata.org/entity/Q25498,Samsung Galaxy S Advance,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20S%20Advance%20i9070.png
+http://www.wikidata.org/entity/Q26211,LG Optimus L7,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20Optimus%20L7%20pink%20edition.jpg
+http://www.wikidata.org/entity/Q26228,LG Optimus L3,http://commons.wikimedia.org/wiki/Special:FilePath/Disp%20LG%20E400.JPG
+http://www.wikidata.org/entity/Q26230,LG Optimus L5,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20Swift%20L5%20front.jpg
+http://www.wikidata.org/entity/Q26984,Samsung Galaxy Pocket,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Pocket.jpg
+http://www.wikidata.org/entity/Q27209,Samsung Galaxy i7500,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20i5700.jpg
+http://www.wikidata.org/entity/Q31384,HTC Windows Phone 8S,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Windows%20Phone%208S.jpg
+http://www.wikidata.org/entity/Q49046,Galaxy Nexus,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Nexus%20Render.png
+http://www.wikidata.org/entity/Q49047,Nexus 4,http://commons.wikimedia.org/wiki/Special:FilePath/Nexus%204.png
+http://www.wikidata.org/entity/Q49051,Nexus One,http://commons.wikimedia.org/wiki/Special:FilePath/Nexus%20One.png
+http://www.wikidata.org/entity/Q49052,Nexus S,http://commons.wikimedia.org/wiki/Special:FilePath/Nexus%20S.png
+http://www.wikidata.org/entity/Q49054,Motorola Atrix 4G,http://commons.wikimedia.org/wiki/Special:FilePath/MB860%20-%20Motorola%20Atrix%204G.jpg
+http://www.wikidata.org/entity/Q76905,HTC Windows Phone 8X,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Windows%20Phone%208X%20%288315233001%29.jpg
+http://www.wikidata.org/entity/Q118523,Meizu M8,http://commons.wikimedia.org/wiki/Special:FilePath/Meizu%20m8%20wikipedia.jpg
+http://www.wikidata.org/entity/Q136473,ZTE Blade,http://commons.wikimedia.org/wiki/Special:FilePath/Orange%20San%20Francisco%20%28ZTE%20Blade%29.jpg
+http://www.wikidata.org/entity/Q140944,Samsung Galaxy S III,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20S%20III%20Pebble%20Blue%20WikiWikipedia.png
+http://www.wikidata.org/entity/Q154851,Samsung Galaxy S II,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20SII.png
+http://www.wikidata.org/entity/Q155668,Sony Xperia Tipo,http://commons.wikimedia.org/wiki/Special:FilePath/Xperia%20tipo%20red.jpg
+http://www.wikidata.org/entity/Q185926,HTC HD2,http://commons.wikimedia.org/wiki/Special:FilePath/Htc-hd2.jpg
+http://www.wikidata.org/entity/Q216994,Nokia Lumia 610,http://commons.wikimedia.org/wiki/Special:FilePath/Matias%20oyarzo%20lumia%20610.png
+http://www.wikidata.org/entity/Q216994,Nokia Lumia 610,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20Lumia%20610-01.JPG
+http://www.wikidata.org/entity/Q223895,Nokia N95,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20N95%20Front%201.jpg
+http://www.wikidata.org/entity/Q235642,Nokia Lumia 920 smartphone,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20Lumia%20920%20-%20Caledos%20Runner.jpg
+http://www.wikidata.org/entity/Q249255,HTC Evo 3D,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20EVO%203D.jpg
+http://www.wikidata.org/entity/Q250825,Samsung Galaxy Note II,http://commons.wikimedia.org/wiki/Special:FilePath/Galaxy%20note.jpg
+http://www.wikidata.org/entity/Q250825,Samsung Galaxy Note II,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Note%20II.png
+http://www.wikidata.org/entity/Q261079,Sony Xperia U,http://commons.wikimedia.org/wiki/Special:FilePath/Xperia%20U.jpg
+http://www.wikidata.org/entity/Q263558,HTC HD Mini,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20HD%20Mini.JPG
+http://www.wikidata.org/entity/Q264059,Samsung Galaxy S,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20S.svg
+http://www.wikidata.org/entity/Q280885,Nokia Lumia 900,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20Lumia%20900.jpg
+http://www.wikidata.org/entity/Q287674,Sony Xperia V,http://commons.wikimedia.org/wiki/Special:FilePath/Xperia%20V%20auf%20der%20Internationalen%20Funkausstellung%202012%20in%20Berlin%201%20PD.JPG
+http://www.wikidata.org/entity/Q300859,iPhone 3GS,http://commons.wikimedia.org/wiki/Special:FilePath/IPhone%201st%20Gen.svg
+http://www.wikidata.org/entity/Q311758,Nokia Lumia 820,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20Lumia%20820.jpg
+http://www.wikidata.org/entity/Q339089,HTC Explorer,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Explorer%20front%20view.JPG
+http://www.wikidata.org/entity/Q348819,LG Optimus G,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20Optimus%20G.jpg
+http://www.wikidata.org/entity/Q371350,Nokia E60,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20E60.jpg
+http://www.wikidata.org/entity/Q391918,Motorola Backflip,http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%20Backflip%20open.jpg
+http://www.wikidata.org/entity/Q400356,Sony Xperia J,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%20J%201.jpg
+http://www.wikidata.org/entity/Q428505,Nokia Lumia 620,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20Lumia%20620.JPG
+http://www.wikidata.org/entity/Q440947,Danger Hiptop,http://commons.wikimedia.org/wiki/Special:FilePath/Color%20sidekick.jpg
+http://www.wikidata.org/entity/Q482636,LG Optimus 2X,http://commons.wikimedia.org/wiki/Special:FilePath/World%E2%80%99s%20first%20dual-core%20smartphone%20comes%20to%20europe.jpg
+http://www.wikidata.org/entity/Q482844,Samsung i8910,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20i8910HD%200.jpg
+http://www.wikidata.org/entity/Q483084,Samsung Galaxy Y,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Y%20S5360%20run%20Android%202.3.6.jpg
+http://www.wikidata.org/entity/Q483475,Samsung Galaxy Mini,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Mini.png
+http://www.wikidata.org/entity/Q483479,LG Optimus One,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20P500%20OPTIMUS%20ONE.jpg
+http://www.wikidata.org/entity/Q483484,LG Optimus Black,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20Optimus%20Black.jpg
+http://www.wikidata.org/entity/Q483845,Samsung Galaxy Gio,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Gio.png
+http://www.wikidata.org/entity/Q483987,LG Optimus 7,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20Optimus%207%20smartphone.jpg
+http://www.wikidata.org/entity/Q484687,Samsung Galaxy W,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20W%20%28GT-I8150%29%20front%202.jpg
+http://www.wikidata.org/entity/Q484691,Samsung i5700,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20i5700.jpg
+http://www.wikidata.org/entity/Q485216,Samsung Omnia 7,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Omnia%207.jpg
+http://www.wikidata.org/entity/Q487143,LG Optimus LTE,http://commons.wikimedia.org/wiki/Special:FilePath/Optimus%20LTE.jpg
+http://www.wikidata.org/entity/Q487615,Samsung Galaxy Ace Plus,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Ace%20Plus.png
+http://www.wikidata.org/entity/Q487634,LG Optimus Vu,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20Optimus%20Vu%20front.png
+http://www.wikidata.org/entity/Q487639,LG Quantum,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20Quantum.jpg
+http://www.wikidata.org/entity/Q488583,Samsung Galaxy Ace 2,http://commons.wikimedia.org/wiki/Special:FilePath/Im%20phoneage.jpg
+http://www.wikidata.org/entity/Q489846,Samsung i5500,http://commons.wikimedia.org/wiki/Special:FilePath/Galaxy%205.jpg
+http://www.wikidata.org/entity/Q490110,Samsung Ativ S,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Ativ%20S.png
+http://www.wikidata.org/entity/Q490473,Samsung Galaxy S III Mini,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20S%20III%20mini.png
+http://www.wikidata.org/entity/Q492367,LG Prada 3.0,http://commons.wikimedia.org/wiki/Special:FilePath/%E2%80%98%ED%94%84%EB%9D%BC%EB%8B%A4%ED%8F%B0%203.0%E2%80%99%20%EC%98%88%EC%95%BD%20%ED%8C%90%EB%A7%A4%20%EB%8F%8C%EC%9E%85.jpg
+http://www.wikidata.org/entity/Q492647,LG Optimus Chat,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20Optimus%20Chat.jpg
+http://www.wikidata.org/entity/Q494226,LG Optimus GT540,http://commons.wikimedia.org/wiki/Special:FilePath/LG%EC%A0%84%EC%9E%90%EC%9D%98%20%EB%91%90%20%EB%B2%88%EC%A7%B8%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%ED%8F%B0%20%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%28LG%20GT540%29.jpg
+http://www.wikidata.org/entity/Q494372,LG Optimus 4X HD,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20Optimus%204X%20HD%20P880.JPG
+http://www.wikidata.org/entity/Q494698,Samsung Galaxy Note GT-N7000,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Note.png
+http://www.wikidata.org/entity/Q494698,Samsung Galaxy Note GT-N7000,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Note%20series.jpg
+http://www.wikidata.org/entity/Q494845,LG Optimus 3D,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20Optimus%203D%282%29.jpg
+http://www.wikidata.org/entity/Q494879,Samsung i5800,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%203%20GT-I5800%20%283%29.jpg
+http://www.wikidata.org/entity/Q495926,Samsung Galaxy Ace,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Ace.png
+http://www.wikidata.org/entity/Q495946,Samsung Wave S8500,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Wave%20Bada.jpg
+http://www.wikidata.org/entity/Q496923,LG GW620,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20GW620.jpg
+http://www.wikidata.org/entity/Q496923,LG GW620,http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%20Milestone%20%26%20LG%20GW620%2020100124.jpg
+http://www.wikidata.org/entity/Q497247,Samsung i8000,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20GT-i8000%208GB%202.jpg
+http://www.wikidata.org/entity/Q497751,LG Optimus L9,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20Optimus%20L9.JPG
+http://www.wikidata.org/entity/Q498360,Samsung Galaxy Fit,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Fit%20%28GT-S5670%29.jpg
+http://www.wikidata.org/entity/Q548987,Motorola Atrix 2,http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%20Atrix%202.JPG
+http://www.wikidata.org/entity/Q549095,Droid 2,http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%20Droid%202.jpg
+http://www.wikidata.org/entity/Q553814,Droid Pro,http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%20Droid%20Pro.jpg
+http://www.wikidata.org/entity/Q564264,Droid X,http://commons.wikimedia.org/wiki/Special:FilePath/Mot%20Droid%20X%20wp%20jeh.jpg
+http://www.wikidata.org/entity/Q578663,HTC HD7,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20HD7.png
+http://www.wikidata.org/entity/Q579988,Motorola Droid,http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%20Milestone.jpg
+http://www.wikidata.org/entity/Q580170,HTC J Butterfly,http://commons.wikimedia.org/wiki/Special:FilePath/Au%20by%20KDDI%20HTC%20J%20butterfly%20HTL21%20ScreenSide.JPG
+http://www.wikidata.org/entity/Q582165,Samsung Galaxy S Plus,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20S.svg
+http://www.wikidata.org/entity/Q617418,Huawei Ascend W1,http://commons.wikimedia.org/wiki/Special:FilePath/Huawei%20W1-U00-7114.jpg
+http://www.wikidata.org/entity/Q631790,HTC Touch HD,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Touch%20HD%20-%20my%20new%20PDA.jpg
+http://www.wikidata.org/entity/Q665229,HTC One S,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20One%20S.png
+http://www.wikidata.org/entity/Q672236,Sony Ericsson Z310,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Ericsson%20Z310i.jpg
+http://www.wikidata.org/entity/Q676153,Intel AZ210,http://commons.wikimedia.org/wiki/Special:FilePath/Orange%20San%20Diego.png
+http://www.wikidata.org/entity/Q679776,HTC 7 Mozart,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Mozart%20smartphone.jpg
+http://www.wikidata.org/entity/Q696371,HTC One X,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20One%20X.png
+http://www.wikidata.org/entity/Q696618,HTC Desire,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Desire%20-%20FriendStream.jpeg
+http://www.wikidata.org/entity/Q696923,HTC Magic,http://commons.wikimedia.org/wiki/Special:FilePath/HT-03android.jpg
+http://www.wikidata.org/entity/Q697425,HTC Sensation,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Sensation%20front%20cs.jpg
+http://www.wikidata.org/entity/Q698479,HTC Legend,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Legend.png
+http://www.wikidata.org/entity/Q698826,HTC Hero,http://commons.wikimedia.org/wiki/Special:FilePath/CreativeTools.se%20-%20PackshotCreator%20-%20HTC%20Hero%20Android.jpg
+http://www.wikidata.org/entity/Q698832,HTC Desire HD,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Desire%20HD.jpg
+http://www.wikidata.org/entity/Q699268,HTC Desire Z,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Desire%20Z%20-%20with%20keyboard%20open.jpeg
+http://www.wikidata.org/entity/Q700745,HTC Desire S,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Desire%20S%2007.jpg
+http://www.wikidata.org/entity/Q701391,HTC Tattoo,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Tattoo%20black.jpg
+http://www.wikidata.org/entity/Q702927,HTC Excalibur,http://commons.wikimedia.org/wiki/Special:FilePath/T-Mobile%20Dash%20wiki.jpg
+http://www.wikidata.org/entity/Q702930,HTC Titan,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Mogul.jpg
+http://www.wikidata.org/entity/Q703343,HTC Wildfire S,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Wildfire%20S%20Viewpoints.jpg
+http://www.wikidata.org/entity/Q705978,HTC Evo 4G,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Evo%204G.jpg
+http://www.wikidata.org/entity/Q707009,HTC Touch Pro2,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Touch%20Pro%202.jpg
+http://www.wikidata.org/entity/Q707081,HTC Touch Dual,http://commons.wikimedia.org/wiki/Special:FilePath/Touch-Dual-closed.jpg
+http://www.wikidata.org/entity/Q707103,HTC TyTN II,http://commons.wikimedia.org/wiki/Special:FilePath/Htc%20tytn%20ii.jpg
+http://www.wikidata.org/entity/Q708288,Samsung Infuse 4G,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Infuse%204G%2001.jpg
+http://www.wikidata.org/entity/Q708297,HTC Titan,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Titan%20ATT%20Rlamond.JPG
+http://www.wikidata.org/entity/Q710461,HTC Touch Pro,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Touch%20Pro%20QWERTY.JPG
+http://www.wikidata.org/entity/Q711868,HTC Touch,http://commons.wikimedia.org/wiki/Special:FilePath/T-Mobile%20MDA%20Touch%20with%20WM%206.1.jpg
+http://www.wikidata.org/entity/Q711895,HTC TyTN,http://commons.wikimedia.org/wiki/Special:FilePath/Tytn-temp.jpg
+http://www.wikidata.org/entity/Q712142,HTC Touch Diamond2,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Touch%20Diamond2%2020090313.jpg
+http://www.wikidata.org/entity/Q712149,HTC S710,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20S710.JPG
+http://www.wikidata.org/entity/Q712188,HTC Blue Angel,http://commons.wikimedia.org/wiki/Special:FilePath/XV6600.JPG
+http://www.wikidata.org/entity/Q712405,HTC S730,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20S730.JPG
+http://www.wikidata.org/entity/Q712416,HTC Max 4G,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20MAX%204G.JPG
+http://www.wikidata.org/entity/Q712443,HTC Touch Cruise,http://commons.wikimedia.org/wiki/Special:FilePath/2008Computex%20HTC%20Touch%20Cruise.jpg
+http://www.wikidata.org/entity/Q712822,HTC Desire C,http://commons.wikimedia.org/wiki/Special:FilePath/HTC-Desire-C-GER2.JPG
+http://www.wikidata.org/entity/Q713214,HTC Wizard,http://commons.wikimedia.org/wiki/Special:FilePath/Cingular%208125%20%28htc%20wizard%29.jpg
+http://www.wikidata.org/entity/Q714308,HTC Touch Diamond,http://commons.wikimedia.org/wiki/Special:FilePath/HtcDiamond.jpg
+http://www.wikidata.org/entity/Q715831,Droid Incredible,http://commons.wikimedia.org/wiki/Special:FilePath/Droid%20incredible%20back.JPG
+http://www.wikidata.org/entity/Q727286,Nokia N8,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20N8.png
+http://www.wikidata.org/entity/Q727665,HTC Dream,http://commons.wikimedia.org/wiki/Special:FilePath/T-Mobile%20G1%20launch%20event%202.jpg
+http://www.wikidata.org/entity/Q732979,Sony Ericsson W960,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Ericsson%20W960i.jpg
+http://www.wikidata.org/entity/Q762020,Xperia Play,http://commons.wikimedia.org/wiki/Special:FilePath/Sony-Xperia-Play-Open-FL.jpg
+http://www.wikidata.org/entity/Q765944,Samsung Focus,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Focus%20Edited.png
+http://www.wikidata.org/entity/Q776696,Sony Xperia S,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%20S%20Front.jpg
+http://www.wikidata.org/entity/Q782180,Sony Ericsson Xperia arc S,http://commons.wikimedia.org/wiki/Special:FilePath/SO-01C%20front.jpg
+http://www.wikidata.org/entity/Q830534,Nokia N9,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20N9.jpg
+http://www.wikidata.org/entity/Q834806,Sony Ericsson Z520i,http://commons.wikimedia.org/wiki/Special:FilePath/Z520aopen.jpg
+http://www.wikidata.org/entity/Q842330,Nokia 5800 XpressMusic,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%205800%20XpressMusic%20Browser.jpg
+http://www.wikidata.org/entity/Q844842,Nokia 3230,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%203230.JPG
+http://www.wikidata.org/entity/Q846660,Treo 650,http://commons.wikimedia.org/wiki/Special:FilePath/Treo650-Sprint.png
+http://www.wikidata.org/entity/Q869349,Xiaomi Mi 1,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%20M1.jpg
+http://www.wikidata.org/entity/Q917793,Sony Ericsson Xperia X10,http://commons.wikimedia.org/wiki/Special:FilePath/Nttdocomo-sonyericsson%20so-01b%20front.JPG
+http://www.wikidata.org/entity/Q923699,Nokia Lumia 800,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20Lumia.jpg
+http://www.wikidata.org/entity/Q930359,Nokia E90 Communicator,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia-e90.jpg
+http://www.wikidata.org/entity/Q976893,Nokia 9300,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia9300.png
+http://www.wikidata.org/entity/Q989827,Samsung Ativ,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Ativ%2011.6%20inch%20tablet%20Win%208%20jeh.jpg
+http://www.wikidata.org/entity/Q1061068,Sony Ericsson Xperia X1,http://commons.wikimedia.org/wiki/Special:FilePath/Black%20X1i%20in%20landscape.JPG
+http://www.wikidata.org/entity/Q1065197,Nokia N82,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20N82.jpg
+http://www.wikidata.org/entity/Q1076461,Nokia N73,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia-N73.jpg
+http://www.wikidata.org/entity/Q1100490,Huawei U8800,http://commons.wikimedia.org/wiki/Special:FilePath/Huawei%20u8800%20front.png
+http://www.wikidata.org/entity/Q1116698,HTC Aria,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Aria%20review.jpg
+http://www.wikidata.org/entity/Q1135934,Droid Razr,http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%20RAZR%20XT910.jpg
+http://www.wikidata.org/entity/Q1137033,Sony Ericsson Xperia ray (ST18i),http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Ericsson%20Xperia%20Ray%20Status.jpg
+http://www.wikidata.org/entity/Q1139503,Nokia Lumia 710,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20Lumia%20710%20front%20ON.jpg
+http://www.wikidata.org/entity/Q1153608,Nokia N70,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20N70%20%281%29.jpg
+http://www.wikidata.org/entity/Q1185953,Motorola Defy,http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%20Defy%20crop%202.jpg
+http://www.wikidata.org/entity/Q1191377,Sony Ericsson Xperia Arc,http://commons.wikimedia.org/wiki/Special:FilePath/SO-01C%20front.jpg
+http://www.wikidata.org/entity/Q1191968,Sony Ericsson Xperia X10 Mini,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Ericsson%20Xperia%20X10%20Mini.JPG
+http://www.wikidata.org/entity/Q1218455,Nokia 5230,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia5230.jpg
+http://www.wikidata.org/entity/Q1280935,Dell Venue Pro,http://commons.wikimedia.org/wiki/Special:FilePath/Dell%20Venue%20Pro%20smartphone.jpg
+http://www.wikidata.org/entity/Q1290269,Sony Ericsson Xperia Mini Pro,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Ericsson%20Xperia%20mini%20pro%2020120421.JPG
+http://www.wikidata.org/entity/Q1314446,HTC 7 Pro,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%207%20Pro.jpg
+http://www.wikidata.org/entity/Q1319535,Nüvifone A50,http://commons.wikimedia.org/wiki/Special:FilePath/N%C3%BCvifone%20A50.jpg
+http://www.wikidata.org/entity/Q1321356,IBM Simon,http://commons.wikimedia.org/wiki/Special:FilePath/IBM%20Simon%20Personal%20Communicator.png
+http://www.wikidata.org/entity/Q1341483,Nokia 808 PureView,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20808%20PureView%20front%20and%20back%20view.JPG
+http://www.wikidata.org/entity/Q1356126,Nokia 6210 Navigator,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia6210Navi-open.jpg
+http://www.wikidata.org/entity/Q1393947,Sony Xperia P,http://commons.wikimedia.org/wiki/Special:FilePath/Xperia%20P.jpg
+http://www.wikidata.org/entity/Q1407539,Nokia N97,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20n97%20mobile%20phone.JPG
+http://www.wikidata.org/entity/Q1429789,Nokia 7650,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%207650%2001.jpg
+http://www.wikidata.org/entity/Q1463380,Palm Pre,http://commons.wikimedia.org/wiki/Special:FilePath/Palm%20Pre.jpg
+http://www.wikidata.org/entity/Q1535920,Sony Ericsson P990,http://commons.wikimedia.org/wiki/Special:FilePath/P990i-open.JPG
+http://www.wikidata.org/entity/Q1544786,Greenphone,http://commons.wikimedia.org/wiki/Special:FilePath/Greenphone%20cropped.jpg
+http://www.wikidata.org/entity/Q1549091,HTC 7 Trophy,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Trophy%20smartphone.jpg
+http://www.wikidata.org/entity/Q1566040,HTC Smart,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Smart%2002.jpg
+http://www.wikidata.org/entity/Q1566050,HTC Wildfire,http://commons.wikimedia.org/wiki/Special:FilePath/Htcwildfire.JPG
+http://www.wikidata.org/entity/Q1580054,Sony Ericsson Satio,http://commons.wikimedia.org/wiki/Special:FilePath/SonyEricssonSatio.jpg
+http://www.wikidata.org/entity/Q1634751,Nokia E71,http://commons.wikimedia.org/wiki/Special:FilePath/Nokiae71.jpg
+http://www.wikidata.org/entity/Q1643372,Nokia N91,http://commons.wikimedia.org/wiki/Special:FilePath/N91.jpg
+http://www.wikidata.org/entity/Q1643391,Nokia 6630,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%206630.jpg
+http://www.wikidata.org/entity/Q1647192,Nokia N72,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20N72.jpg
+http://www.wikidata.org/entity/Q1650835,Nokia N71,http://commons.wikimedia.org/wiki/Special:FilePath/804NK%28Nokia-N71%29%2001.JPG
+http://www.wikidata.org/entity/Q1650880,Nokia N96,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20N96%20screen%20landscape.jpg
+http://www.wikidata.org/entity/Q1651067,Nokia N90,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20N90%20Camera%20flickr%20178946625.jpg
+http://www.wikidata.org/entity/Q1651187,Nokia N85,http://commons.wikimedia.org/wiki/Special:FilePath/PC170006.JPG
+http://www.wikidata.org/entity/Q1651194,Nokia N93,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20n93-1.jpg
+http://www.wikidata.org/entity/Q1748752,Nokia E62,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20E62.jpg
+http://www.wikidata.org/entity/Q1761258,Nokia 5500 Sport,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%205500.jpg
+http://www.wikidata.org/entity/Q1761291,Nokia 5700 XpressMusic,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%205700%20XpressMusic.jpg
+http://www.wikidata.org/entity/Q1780607,Nokia E50,http://commons.wikimedia.org/wiki/Special:FilePath/NokiaE50.jpg
+http://www.wikidata.org/entity/Q1815935,Sony Ericsson P1,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Ericsson%20P1%20front.jpg
+http://www.wikidata.org/entity/Q1874262,HTC Desire X,http://commons.wikimedia.org/wiki/Special:FilePath/HTC-Desire-X-GER.JPG
+http://www.wikidata.org/entity/Q1990338,Fujitsu Toshiba IS12T,http://commons.wikimedia.org/wiki/Special:FilePath/IS12T%20Front.JPG
+http://www.wikidata.org/entity/Q1994354,Motorola Ming,http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%20MING%20Portrait.jpg
+http://www.wikidata.org/entity/Q2020127,BlackBerry Storm,http://commons.wikimedia.org/wiki/Special:FilePath/Blackberry-storm-orig.jpg
+http://www.wikidata.org/entity/Q2035663,Nokia E72,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20e72-1.jpg
+http://www.wikidata.org/entity/Q2069655,Sony Xperia ion,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%20Ion.JPG
+http://www.wikidata.org/entity/Q2079443,Nokia 5530 XpressMusic,http://commons.wikimedia.org/wiki/Special:FilePath/5530XM.jpg
+http://www.wikidata.org/entity/Q2079443,Nokia 5530 XpressMusic,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%205530%20Xpress%20Music.JPG
+http://www.wikidata.org/entity/Q2099827,HTC Radar,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Radar%204G%20-%20WIND%20Mobile.JPG
+http://www.wikidata.org/entity/Q2109633,Samsung Galaxy Mini 2,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Mini%202.png
+http://www.wikidata.org/entity/Q2213276,Nokia 5233,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%205233.jpg
+http://www.wikidata.org/entity/Q2217843,Samsung SGH-i900,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20i900%20Omnia.jpg
+http://www.wikidata.org/entity/Q2222732,Sony Xperia SL,http://commons.wikimedia.org/wiki/Special:FilePath/Xperia-sl.jpg
+http://www.wikidata.org/entity/Q2302486,Sony Ericsson Vivaz,http://commons.wikimedia.org/wiki/Special:FilePath/SonyEricssonVivaz.jpg
+http://www.wikidata.org/entity/Q2310487,Nokia N86 8MP,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20N86%208MP.png
+http://www.wikidata.org/entity/Q2326649,Sony Xperia T,http://commons.wikimedia.org/wiki/Special:FilePath/Xperia%20T%20wa.jpg
+http://www.wikidata.org/entity/Q2357052,Nokia C5-00,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20C5-00.png
+http://www.wikidata.org/entity/Q2360721,Samsung Omnia W,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Omnia%20W%20Model%20no.GT-I8350.jpg
+http://www.wikidata.org/entity/Q2398135,Sony Xperia neo L,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%20neo%20L.JPG
+http://www.wikidata.org/entity/Q2408671,Acer Liquid A1,http://commons.wikimedia.org/wiki/Special:FilePath/Acer%20liquid%20running%20draft%20WCTMB2.jpg
+http://www.wikidata.org/entity/Q2413577,Meizu M9,http://commons.wikimedia.org/wiki/Special:FilePath/Meizu%20M9.png
+http://www.wikidata.org/entity/Q2472968,Neo FreeRunner,http://commons.wikimedia.org/wiki/Special:FilePath/Freerunner02.png
+http://www.wikidata.org/entity/Q2594532,Huawei IDEOS U8150,http://commons.wikimedia.org/wiki/Special:FilePath/Huawei%20IDEOS%20U8150%20front.jpg
+http://www.wikidata.org/entity/Q2612670,Nokia 603,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20603.jpg
+http://www.wikidata.org/entity/Q2672682,Nokia E63,http://commons.wikimedia.org/wiki/Special:FilePath/NOKIA%20E63.jpg
+http://www.wikidata.org/entity/Q2714518,Neo 1973,http://commons.wikimedia.org/wiki/Special:FilePath/Neo%201973%20smartphone.jpg
+http://www.wikidata.org/entity/Q2737442,Nokia 3620/3660,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%203660.jpg
+http://www.wikidata.org/entity/Q2811581,Sony Xperia Z,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%20Z.JPG
+http://www.wikidata.org/entity/Q2822953,Acer Stream,http://commons.wikimedia.org/wiki/Special:FilePath/Acer%20Stream.JPG
+http://www.wikidata.org/entity/Q2822954,Acer beTouch E400,http://commons.wikimedia.org/wiki/Special:FilePath/Acer-betouch-e400-android-photos.jpg
+http://www.wikidata.org/entity/Q2832089,Alcatel One Touch 980,http://commons.wikimedia.org/wiki/Special:FilePath/Alcatel%20OT%20980.jpg
+http://www.wikidata.org/entity/Q2905271,BlackBerry Curve 9300,http://commons.wikimedia.org/wiki/Special:FilePath/BlackberryCurve%209300.jpg
+http://www.wikidata.org/entity/Q2905283,BlackBerry Torch 9800,http://commons.wikimedia.org/wiki/Special:FilePath/BlackBerry%20Torch.jpg
+http://www.wikidata.org/entity/Q2915213,LG Cookie Plus,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20Cookie%20Plus%20GS500.png
+http://www.wikidata.org/entity/Q2975303,Sony Ericsson Xperia X8,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Ericsson%20Xperia%20X8.jpg
+http://www.wikidata.org/entity/Q2977807,Sony Ericsson Xperia neo,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Ericsson%20Xperia%20neo.jpg
+http://www.wikidata.org/entity/Q3075129,Huawei Sonic,http://commons.wikimedia.org/wiki/Special:FilePath/Hua8650.JPG
+http://www.wikidata.org/entity/Q3100079,GeeksPhone One,http://commons.wikimedia.org/wiki/Special:FilePath/GeeksPhone%20One.jpg
+http://www.wikidata.org/entity/Q3125199,HTC ChaCha,http://commons.wikimedia.org/wiki/Special:FilePath/HTC-ChaCha-Azerty-01.jpg
+http://www.wikidata.org/entity/Q3133617,Sony Ericsson Xperia mini,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Ericsson%20Xperia%20mini%20pro%2020120421.JPG
+http://www.wikidata.org/entity/Q3265290,Sony Xperia Go,http://commons.wikimedia.org/wiki/Special:FilePath/Xperia%20go.jpg
+http://www.wikidata.org/entity/Q3301100,Nokia E6,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20e6.jpg
+http://www.wikidata.org/entity/Q3304783,Meizu MX,http://commons.wikimedia.org/wiki/Special:FilePath/Meizu%20MX.svg
+http://www.wikidata.org/entity/Q3328167,HTC Incredible S,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Incredible%20S%20-%20front.JPG
+http://www.wikidata.org/entity/Q3433619,HTC Touch2,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Touch2%20%28MEGA%2C%20T3333%29.jpg
+http://www.wikidata.org/entity/Q3435598,HTC Typhoon,http://commons.wikimedia.org/wiki/Special:FilePath/Orange%20spv%20c500.JPG
+http://www.wikidata.org/entity/Q3465744,LG Optimus Vu II,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20Optimus%20Vu%20II%20%28White%29.jpg
+http://www.wikidata.org/entity/Q3481896,HTC ThunderBolt,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Thunderbolt.jpg
+http://www.wikidata.org/entity/Q3490751,Q3490751,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Ericsson%20K550im.jpg
+http://www.wikidata.org/entity/Q3493289,Sony Ericsson Z530i,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Ericsson%20Z530i.JPG
+http://www.wikidata.org/entity/Q3540222,Lenovo IdeaPhone K900,http://commons.wikimedia.org/wiki/Special:FilePath/Lenovo%20K900.jpg
+http://www.wikidata.org/entity/Q3569619,Palm Centro,http://commons.wikimedia.org/wiki/Special:FilePath/Palmcentroredwikipedia.jpg
+http://www.wikidata.org/entity/Q3820319,LG Optimus Chic,http://commons.wikimedia.org/wiki/Special:FilePath/LG%EC%A0%84%EC%9E%90%2C%20%E2%80%98%EC%98%B5%ED%8B%B0%EB%A8%B8%EC%8A%A4%E2%80%99%20%EC%8B%9C%EB%A6%AC%EC%A6%88%EB%A1%9C%20%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%20%EC%A7%80%ED%98%95%20%EB%92%A4%ED%9D%94%EB%93%A0%EB%8B%A4.jpg
+http://www.wikidata.org/entity/Q3892697,Treo 600,http://commons.wikimedia.org/wiki/Special:FilePath/Treo600.jpg
+http://www.wikidata.org/entity/Q3907172,BlackBerry Q10,http://commons.wikimedia.org/wiki/Special:FilePath/Blackbery%20Q10%20Blanco.jpg
+http://www.wikidata.org/entity/Q3922240,BlackBerry Z10,http://commons.wikimedia.org/wiki/Special:FilePath/BlackBerry%20Z10.jpg
+http://www.wikidata.org/entity/Q3925176,Nokia Lumia 505,http://commons.wikimedia.org/wiki/Special:FilePath/Lumia%20505.jpg
+http://www.wikidata.org/entity/Q4033245,Acer Liquid E,http://commons.wikimedia.org/wiki/Special:FilePath/Acer-ferrari-Liquid.jpg
+http://www.wikidata.org/entity/Q4033247,Acer Liquid Metal,http://commons.wikimedia.org/wiki/Special:FilePath/Acer%20Liquid%20mt%20s120.jpg
+http://www.wikidata.org/entity/Q11234202,N-08D,http://commons.wikimedia.org/wiki/Special:FilePath/Docomo-Tablet%20N-08D%20ScreenSide.JPG
+http://www.wikidata.org/entity/Q11238082,P-01A,http://commons.wikimedia.org/wiki/Special:FilePath/DOOOMOP-01A.jpg
+http://www.wikidata.org/entity/Q11238095,P-02D,http://commons.wikimedia.org/wiki/Special:FilePath/NTT%20docomo%20P-02D%2001.jpg
+http://www.wikidata.org/entity/Q11243059,Aquos Phone SH-06D,http://commons.wikimedia.org/wiki/Special:FilePath/SH-06D%20front.JPG
+http://www.wikidata.org/entity/Q11247834,T-01C,http://commons.wikimedia.org/wiki/Special:FilePath/M1110007.JPG
+http://www.wikidata.org/entity/Q11688283,BlackBerry Bold 9000,http://commons.wikimedia.org/wiki/Special:FilePath/BlackBerry%20Bold%209000%20TIM.jpeg
+http://www.wikidata.org/entity/Q11892276,Samsung Galaxy Xcover 2,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Xcover%202.JPG
+http://www.wikidata.org/entity/Q11896859,Samsung Galaxy Mega,http://commons.wikimedia.org/wiki/Special:FilePath/S-Mega.jpg
+http://www.wikidata.org/entity/Q12072545,Sony Xperia L,http://commons.wikimedia.org/wiki/Special:FilePath/Smartphone%20Sony%20Xperia%20L%20C2104%20Preto.JPG
+http://www.wikidata.org/entity/Q12595323,Motorola RAZR i,http://commons.wikimedia.org/wiki/Special:FilePath/RAZR%20i.png
+http://www.wikidata.org/entity/Q12606017,Anycall Yuna's Haptic,http://commons.wikimedia.org/wiki/Special:FilePath/Anycall%20Yuna%27s%20Haptic.jpg
+http://www.wikidata.org/entity/Q13105980,LG Optimus G Pro,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20Optimus%20G%20Pro%20-%20US%20version.jpg
+http://www.wikidata.org/entity/Q13218595,Nokia Asha 501,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20Asha%20501.png
+http://www.wikidata.org/entity/Q13219095,Nokia Lumia 925,http://commons.wikimedia.org/wiki/Special:FilePath/Lumia%20925%20reverse.jpg
+http://www.wikidata.org/entity/Q13362780,Nokia Lumia 928,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20Lumia%20928%20Windows%20Phone.jpg
+http://www.wikidata.org/entity/Q13416758,Samsung Galaxy S4 Mini,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20S4%20mini.png
+http://www.wikidata.org/entity/Q13518441,HTC Butterfly S,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Butterfly%20S%20sample%2020130927.jpg
+http://www.wikidata.org/entity/Q13610163,Sony Xperia Z Ultra,http://commons.wikimedia.org/wiki/Special:FilePath/Z%20Ultra.jpg
+http://www.wikidata.org/entity/Q13775482,Nokia Lumia 1020,http://commons.wikimedia.org/wiki/Special:FilePath/Lumia%201020.jpg
+http://www.wikidata.org/entity/Q13775482,Nokia Lumia 1020,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20Lumia%201020%20Front.svg
+http://www.wikidata.org/entity/Q13775482,Nokia Lumia 1020,http://commons.wikimedia.org/wiki/Special:FilePath/Windows%20Phone.jpg
+http://www.wikidata.org/entity/Q14173241,Moto X,http://commons.wikimedia.org/wiki/Special:FilePath/MotoX-11.jpg
+http://www.wikidata.org/entity/Q14195339,Nokia Lumia 625,http://commons.wikimedia.org/wiki/Special:FilePath/Lumia625.jpg
+http://www.wikidata.org/entity/Q14201462,Samsung Galaxy Young,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20galaxy%20young.jpg
+http://www.wikidata.org/entity/Q14344485,Sony Xperia ZR,http://commons.wikimedia.org/wiki/Special:FilePath/SONY%20XPERIA%20A%20%28docomo%20SO-04E%29.jpg
+http://www.wikidata.org/entity/Q14429090,HTC One Mini,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20One%20mini.jpg
+http://www.wikidata.org/entity/Q14444409,Droid Mini,http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%20Droid%20Mini%20XT1030%20Red.jpg
+http://www.wikidata.org/entity/Q14516389,LG G2,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20G2%20demo%20phone.jpg
+http://www.wikidata.org/entity/Q14554951,Huawei Ascend P6,http://commons.wikimedia.org/wiki/Special:FilePath/Huawei%20Ascend%20P6%20%2812436902665%29.jpg
+http://www.wikidata.org/entity/Q14822047,Samsung Galaxy Note 3,http://commons.wikimedia.org/wiki/Special:FilePath/Galaxy%20Note.jpg
+http://www.wikidata.org/entity/Q14822047,Samsung Galaxy Note 3,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Note%203.png
+http://www.wikidata.org/entity/Q14830132,Sony Xperia Z1,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%20Z1%20front%20view.JPG
+http://www.wikidata.org/entity/Q15043563,Huawei STREAM X GL07S,http://commons.wikimedia.org/wiki/Special:FilePath/GL07S%20BK%20001.jpg
+http://www.wikidata.org/entity/Q15051518,GeeksPhone Peak,http://commons.wikimedia.org/wiki/Special:FilePath/GeeksPhone%20Peak.jpeg
+http://www.wikidata.org/entity/Q15051520,GeeksPhone Keon,http://commons.wikimedia.org/wiki/Special:FilePath/Kannada%20language%20input%20in%20a%20GeeksPhone%20Keon%20running%20Firefox%20OS.JPG
+http://www.wikidata.org/entity/Q15060048,Samsung Galaxy Ace 3,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Ace%203.png
+http://www.wikidata.org/entity/Q15072735,Samsung Galaxy S4 Active,http://commons.wikimedia.org/wiki/Special:FilePath/Galaxy%20S4%20Active.jpg
+http://www.wikidata.org/entity/Q15091627,Nokia Lumia 1520,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20Lumia%201520.png
+http://www.wikidata.org/entity/Q15094255,HTC One Max,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20One%20Max.jpg
+http://www.wikidata.org/entity/Q15094454,LG Vu 3,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20Vu3%20%28White%29.jpg
+http://www.wikidata.org/entity/Q15104802,Nokia Lumia 1320,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20%26%20Microsoft%20Lumia%20devices.png
+http://www.wikidata.org/entity/Q15120050,Nexus 5,http://commons.wikimedia.org/wiki/Special:FilePath/NEXUS%205-back%20PNr%C2%B00412.jpg
+http://www.wikidata.org/entity/Q15120050,Nexus 5,http://commons.wikimedia.org/wiki/Special:FilePath/NEXUS%205%20-%20illuminated-front%20PNr%C2%B00411.jpg
+http://www.wikidata.org/entity/Q15120050,Nexus 5,http://commons.wikimedia.org/wiki/Special:FilePath/Nexus%205%20Front%20View.png
+http://www.wikidata.org/entity/Q15133060,LG G Flex,http://commons.wikimedia.org/wiki/Special:FilePath/LG%EC%A0%84%EC%9E%90%2C%20%EC%A7%84%EC%A0%95%ED%95%9C%20%EC%BB%A4%EB%B8%8C%EB%93%9C%20%E2%80%98LG%20G%20%ED%94%8C%EB%A0%89%EC%8A%A4%E2%80%99%20%EA%B3%B5%EA%B0%9C.jpg
+http://www.wikidata.org/entity/Q15196735,Motorola Moto G (1st generation),http://commons.wikimedia.org/wiki/Special:FilePath/Moto%20G%20Wiki.JPG
+http://www.wikidata.org/entity/Q15223618,Sony Xperia M,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%20M%20black.jpg
+http://www.wikidata.org/entity/Q15244204,Nokia Lumia 525,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia-Lumia-525-3.jpg
+http://www.wikidata.org/entity/Q15261471,Alcatel One Touch Fire,http://commons.wikimedia.org/wiki/Special:FilePath/Alcatel%20One%20Touch%20Fire%20FirefoxOS.jpg
+http://www.wikidata.org/entity/Q15296819,Samsung Galaxy Core,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Core%20GT-I8262.png
+http://www.wikidata.org/entity/Q15299648,Nokia X,http://commons.wikimedia.org/wiki/Special:FilePath/NokiaX%2001.jpg
+http://www.wikidata.org/entity/Q15604405,Sony Xperia Z1 Compact,http://commons.wikimedia.org/wiki/Special:FilePath/Z1compact.png
+http://www.wikidata.org/entity/Q15618594,Samsung Galaxy S5,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20S5.png
+http://www.wikidata.org/entity/Q15633841,Asus PadFone,http://commons.wikimedia.org/wiki/Special:FilePath/ASUS%20PadFone%201.jpg
+http://www.wikidata.org/entity/Q15637095,Samsung Galaxy J,http://commons.wikimedia.org/wiki/Special:FilePath/Galaxy%20J%20SC-02F%20Lapis%20Blue%201.jpg
+http://www.wikidata.org/entity/Q15728199,LG G Pro 2,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20G%20Pro%202%20%28White%29.jpg
+http://www.wikidata.org/entity/Q15788191,Huawei Ascend Y210,http://commons.wikimedia.org/wiki/Special:FilePath/Huaweiascendy210.jpg
+http://www.wikidata.org/entity/Q15814121,Sony Xperia Z2,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%20Z2.jpg
+http://www.wikidata.org/entity/Q15830980,Samsung Galaxy Star,http://commons.wikimedia.org/wiki/Special:FilePath/GalaxtStarGTS5282.jpg
+http://www.wikidata.org/entity/Q15890163,LG G2 Mini,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20G2%20mini%20%28White%29.jpg
+http://www.wikidata.org/entity/Q15911568,Q15911568,http://commons.wikimedia.org/wiki/Special:FilePath/Huawei%20C8650.jpg
+http://www.wikidata.org/entity/Q15915756,Xiaomi Mi 3,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%20Mi%203.jpg
+http://www.wikidata.org/entity/Q15939164,Nokia XL,http://commons.wikimedia.org/wiki/Special:FilePath/NokiaXL%201.jpg
+http://www.wikidata.org/entity/Q15939997,Q15939997,http://commons.wikimedia.org/wiki/Special:FilePath/Siemens%20SL55%20mobile%20phone.jpg
+http://www.wikidata.org/entity/Q15951068,Samsung Galaxy Note 3 Neo,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Note%203.png
+http://www.wikidata.org/entity/Q15978785,HTC One M8,http://commons.wikimedia.org/wiki/Special:FilePath/Htc%20One%20%282014%29.svg
+http://www.wikidata.org/entity/Q16001600,Acer Liquid Z5,http://commons.wikimedia.org/wiki/Special:FilePath/ACER%20Liquid%20Z5%20smartphone%20%2815021094340%29.jpg
+http://www.wikidata.org/entity/Q16022261,Nokia Lumia 630,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20Lumia%20630%20%2814325145610%29.jpg
+http://www.wikidata.org/entity/Q16029848,Nokia Lumia 930,http://commons.wikimedia.org/wiki/Special:FilePath/Microsoft%20Nokia%20Lumia%20930.jpg
+http://www.wikidata.org/entity/Q16522793,Sony Ericsson Xperia X10 mini pro,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Ericsson%20Xperia%20X10%20Mini%20Pro.jpg
+http://www.wikidata.org/entity/Q16527225,Fly IQ431 Glory,http://commons.wikimedia.org/wiki/Special:FilePath/Fly%20IQ431%20Glory.jpg
+http://www.wikidata.org/entity/Q16528397,Archos 50 Platinum,http://commons.wikimedia.org/wiki/Special:FilePath/Phone%20archos%2050%20platinum.JPG
+http://www.wikidata.org/entity/Q16532035,YotaPhone 2,http://commons.wikimedia.org/wiki/Special:FilePath/YOTAPHONE%20II.jpg
+http://www.wikidata.org/entity/Q16570062,LG Optimus L4 II,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20optimus%20L4%20II%20alarma.JPG
+http://www.wikidata.org/entity/Q16599643,Samsung Galaxy Trend,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20gt-s7560m.png
+http://www.wikidata.org/entity/Q16799648,Samsung Galaxy K Zoom,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20K%20Zoom.jpg
+http://www.wikidata.org/entity/Q16842889,BlackBerry Z30,http://commons.wikimedia.org/wiki/Special:FilePath/BlackBerry%20Z30%202.jpg
+http://www.wikidata.org/entity/Q16868458,Moto,http://commons.wikimedia.org/wiki/Special:FilePath/Moto%20E%20Black.jpg
+http://www.wikidata.org/entity/Q16927674,HTC One Mini 2,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20One%20mini%202%20%2814379516694%29.jpg
+http://www.wikidata.org/entity/Q16927677,Huawei Ascend Mate 2 4G,http://commons.wikimedia.org/wiki/Special:FilePath/Huawei%20Ascend%20Mate%202%20%2815207439292%29.jpg
+http://www.wikidata.org/entity/Q16927731,Micromax Ninja A89,http://commons.wikimedia.org/wiki/Special:FilePath/Micromax%20Ninja%20A89.jpg
+http://www.wikidata.org/entity/Q16927749,Oppo N1,http://commons.wikimedia.org/wiki/Special:FilePath/OPPO%20N1%20%2815059746038%29.jpg
+http://www.wikidata.org/entity/Q16927786,Samsung Galaxy Pocket Plus,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Pocket.jpg
+http://www.wikidata.org/entity/Q16927815,Sony Xperia M2,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%20M2.jpg
+http://www.wikidata.org/entity/Q16927842,T-Mobile myTouch 4G Slide,http://commons.wikimedia.org/wiki/Special:FilePath/Mytouch%204G%20slide.jpg
+http://www.wikidata.org/entity/Q16977032,LG G3,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20G3.png
+http://www.wikidata.org/entity/Q17007133,Q17007133,http://commons.wikimedia.org/wiki/Special:FilePath/Smartisan-t1-613356.jpg
+http://www.wikidata.org/entity/Q17042321,HTC Gratia,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Aria%20review.jpg
+http://www.wikidata.org/entity/Q17177556,FJL22,http://commons.wikimedia.org/wiki/Special:FilePath/FJL22%20Front.JPG
+http://www.wikidata.org/entity/Q17190413,AQUOS PHONE Xx 302SH,http://commons.wikimedia.org/wiki/Special:FilePath/302SH%20Lapis%20Blue%20No%20TPUcase%20in%20back.JPG
+http://www.wikidata.org/entity/Q17254587,Fire Phone,http://commons.wikimedia.org/wiki/Special:FilePath/Amazon%203D%20Fire%20Smartphone-2%20%2814507506603%29.jpg
+http://www.wikidata.org/entity/Q17303634,Samsung Galaxy S5 Mini,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20S5%20mini.png
+http://www.wikidata.org/entity/Q17317576,Nokia X2 (2014),http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20X2%20Android%20%2814309420090%29.jpg
+http://www.wikidata.org/entity/Q17413058,Xiaomi Mi 4,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%20Mi%204.jpg
+http://www.wikidata.org/entity/Q17496265,BlackBerry Passport,http://commons.wikimedia.org/wiki/Special:FilePath/Blackberry%20Passport%20%28extract%29.png
+http://www.wikidata.org/entity/Q17523623,Samsung Galaxy Alpha,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Alpha.png
+http://www.wikidata.org/entity/Q17530766,Nokia Lumia 530,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20%26%20Microsoft%20Lumia%20devices.png
+http://www.wikidata.org/entity/Q17637202,Nokia Lumia 635,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20Lumia%20635%20White.JPG
+http://www.wikidata.org/entity/Q17651342,Xiaomi Redmi Note,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%20Redmi%20Note.JPG
+http://www.wikidata.org/entity/Q17859761,Samsung Galaxy Note 4,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Note%204.png
+http://www.wikidata.org/entity/Q17905075,Nokia Lumia 830,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20Lumia%20830.jpg
+http://www.wikidata.org/entity/Q17914033,Samsung Galaxy Note Edge,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Note%20Edge.png
+http://www.wikidata.org/entity/Q17914035,Sony Xperia Z3,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%20Z3.jpg
+http://www.wikidata.org/entity/Q18011358,Moto X (2nd generation),http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%20Moto%20X.jpg
+http://www.wikidata.org/entity/Q18109890,HTC Desire 820,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Desire%20820%20Black%20Model.jpg
+http://www.wikidata.org/entity/Q18146823,Nokia Lumia 735,http://commons.wikimedia.org/wiki/Special:FilePath/Lumia735.jpg
+http://www.wikidata.org/entity/Q18152790,Moto G (2nd generation),http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%20Moto%20G2%207137.jpg
+http://www.wikidata.org/entity/Q18177225,Sony Xperia Z3 Compact,http://commons.wikimedia.org/wiki/Special:FilePath/Z3%20Compact.jpg
+http://www.wikidata.org/entity/Q18221447,Q18221447,http://commons.wikimedia.org/wiki/Special:FilePath/Bq%20Aquaris%20E5%20-%20Frontal%20view.JPG
+http://www.wikidata.org/entity/Q18284015,Nexus 6,http://commons.wikimedia.org/wiki/Special:FilePath/Nexus%206.png
+http://www.wikidata.org/entity/Q18382857,ASUS ZenFone 5,http://commons.wikimedia.org/wiki/Special:FilePath/ASUS%20ZE620KL%20face%2020181125a.jpg
+http://www.wikidata.org/entity/Q18382857,ASUS ZenFone 5,http://commons.wikimedia.org/wiki/Special:FilePath/ASUS%20ZE620KL%20face%2020181125b.jpg
+http://www.wikidata.org/entity/Q18382857,ASUS ZenFone 5,http://commons.wikimedia.org/wiki/Special:FilePath/ASUS%20ZE620KL%20rear%2020181125.jpg
+http://www.wikidata.org/entity/Q18386377,Panasonic Lumix DMC-CM1,http://commons.wikimedia.org/wiki/Special:FilePath/Panasonic%20CM1%20%2816100935174%29.jpg
+http://www.wikidata.org/entity/Q18388762,Droid Turbo,http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%20Droid%20Turbo.jpg
+http://www.wikidata.org/entity/Q18399273,Samsung Galaxy Core2,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20galaxy%20core%202.jpg
+http://www.wikidata.org/entity/Q18434889,Samsung Galaxy S III Neo,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20S%20III.png
+http://www.wikidata.org/entity/Q18535197,Samsung Galaxy A5,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20A5%20%2816144920672%29.jpg
+http://www.wikidata.org/entity/Q18549782,Samsung Galaxy A3,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20A3.png
+http://www.wikidata.org/entity/Q18611605,Samsung Galaxy Trend Plus,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung-Galaxy-Trend-Plus-GT-S7580.jpg
+http://www.wikidata.org/entity/Q18642203,Microsoft Lumia 535,http://commons.wikimedia.org/wiki/Special:FilePath/Microsoft%20Lumia%20535%20%2816131387047%29.jpg
+http://www.wikidata.org/entity/Q18643709,Huawei Ascend Mate7,http://commons.wikimedia.org/wiki/Special:FilePath/Huawei%20Mate%207.jpg
+http://www.wikidata.org/entity/Q18651127,HTC Desire Eye,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Desire%20Eye%20smartphone%20%2815355721999%29.jpg
+http://www.wikidata.org/entity/Q18667330,Nokia Lumia 730,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20Lumia%20730%2C%20Startbildschirm.JPG
+http://www.wikidata.org/entity/Q18819625,Q18819625,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20G3%20S.jpg
+http://www.wikidata.org/entity/Q18822831,Redmi 1S,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%20Redmi%201S.jpg
+http://www.wikidata.org/entity/Q18890171,ASUS ZenFone Zoom,http://commons.wikimedia.org/wiki/Special:FilePath/ASUS%20Zenfone-zoom.jpg
+http://www.wikidata.org/entity/Q18921035,LG G Flex 2,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20G%20Flex%202.jpg
+http://www.wikidata.org/entity/Q18923001,Microsoft Lumia 532,http://commons.wikimedia.org/wiki/Special:FilePath/Zellos%20Lumia%20532%20A.jpg
+http://www.wikidata.org/entity/Q18941713,Samsung Galaxy S6,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20S6.png
+http://www.wikidata.org/entity/Q19284651,HTC One M9,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20One%20M9.png
+http://www.wikidata.org/entity/Q19370747,Samsung Galaxy S6 Edge,http://commons.wikimedia.org/wiki/Special:FilePath/Galaxy%20S6%20Edge.jpg
+http://www.wikidata.org/entity/Q19405892,Microsoft Lumia 435,http://commons.wikimedia.org/wiki/Special:FilePath/Microsoft%20Lumia%20435%20%282%29.jpg
+http://www.wikidata.org/entity/Q19406379,Microsoft Lumia 640,http://commons.wikimedia.org/wiki/Special:FilePath/Microsoft%20Lumia%20640%20XL%20%28cropped%29.jpg
+http://www.wikidata.org/entity/Q19599653,Sony Xperia E4,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%20E4G%20Front%20View.jpg
+http://www.wikidata.org/entity/Q19599655,Sony Xperia M4 Aqua,http://commons.wikimedia.org/wiki/Special:FilePath/Xperia%20M4%20Aqua%20Dual%20E2363%20White.jpg
+http://www.wikidata.org/entity/Q19768153,Orange gova,http://commons.wikimedia.org/wiki/Special:FilePath/Orange%20Gova.jpg
+http://www.wikidata.org/entity/Q19828028,Sony Xperia Z4,http://commons.wikimedia.org/wiki/Special:FilePath/NTT%20docomo%20smartphone%20Xperia%20Z4%20SO-03G%20DSC%200094.jpg
+http://www.wikidata.org/entity/Q19839498,LG G4,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20G4%20%28Metallic%20Gray%20and%20Ceramic%20White%29.jpg
+http://www.wikidata.org/entity/Q19849977,ASUS ZenFone 2,http://commons.wikimedia.org/wiki/Special:FilePath/ASUS%20ZenFone%202%20CHT%20face%2020150307.jpg
+http://www.wikidata.org/entity/Q19862337,Nexus 6P,http://commons.wikimedia.org/wiki/Special:FilePath/Nexus%206P%20%E6%A8%A1%E5%9E%8B.png
+http://www.wikidata.org/entity/Q19865214,Moto E,http://commons.wikimedia.org/wiki/Special:FilePath/Moto%20E2%20LTE.jpg
+http://www.wikidata.org/entity/Q19865879,OnePlus 2,http://commons.wikimedia.org/wiki/Special:FilePath/OnePlus%202%20%28in%20packaging%29.jpg
+http://www.wikidata.org/entity/Q19867210,Samsung Galaxy S Duos 3,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20S%20Duos%203%20Black.png
+http://www.wikidata.org/entity/Q19868816,Sony Xperia Z3+,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%20Z3%2B%20Wei%C3%9F.jpg
+http://www.wikidata.org/entity/Q19873535,BlackBerry Classic,http://commons.wikimedia.org/wiki/Special:FilePath/Blackberry%20Q20%20smartphone.jpg
+http://www.wikidata.org/entity/Q19876443,BlackBerry Leap,http://commons.wikimedia.org/wiki/Special:FilePath/BlackBerry%20Leap-back%20PNr%C2%B00568.jpg
+http://www.wikidata.org/entity/Q19876443,BlackBerry Leap,http://commons.wikimedia.org/wiki/Special:FilePath/BlackBerry%20Leap-front%20PNr%C2%B00566.jpg
+http://www.wikidata.org/entity/Q19896653,Microsoft Lumia 540,http://commons.wikimedia.org/wiki/Special:FilePath/Microsoft%20Lumia%20540%20Hai%20SIM.png
+http://www.wikidata.org/entity/Q19928710,BQ Aquaris E4.5 Ubuntu Edition,http://commons.wikimedia.org/wiki/Special:FilePath/BQ%20Aquaris%204%205%20Ubuntu.jpg
+http://www.wikidata.org/entity/Q20396115,Samsung Galaxy Grand Neo,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung-galaxy-grand-neo-2014.jpg
+http://www.wikidata.org/entity/Q20648975,Samsung Galaxy S6 Active,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20S6%20Active%20gray%20bootscreen.jpg
+http://www.wikidata.org/entity/Q20714647,BQ Aquaris E5,http://commons.wikimedia.org/wiki/Special:FilePath/Bq%20aquaris%20e5%20hd%208gb%20negro%20libre.jpg
+http://www.wikidata.org/entity/Q20819514,Samsung Galaxy S6 Edge+,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20S6%20Edge%20Plus.png
+http://www.wikidata.org/entity/Q20853000,LG Optimus LTE 2,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20Optimus%20LTE%20II.jpg
+http://www.wikidata.org/entity/Q20886205,Sony Xperia C4,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%20C4%2020160320.jpg
+http://www.wikidata.org/entity/Q20899095,Sony Xperia Z5,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%20Z5%20x2%20%2825176491414%29.jpg
+http://www.wikidata.org/entity/Q20899749,Sony Xperia Z5 Premium,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%20Z5%20Premium%20PSD.png
+http://www.wikidata.org/entity/Q20966885,iPhone 6S Plus,http://commons.wikimedia.org/wiki/Special:FilePath/IPhone%206s%20vector.svg
+http://www.wikidata.org/entity/Q21000819,Fairphone 2,http://commons.wikimedia.org/wiki/Special:FilePath/Fairphone%202%20%2825250139694%29%20%28cropped%29.jpg
+http://www.wikidata.org/entity/Q21004584,Samsung Galaxy J5,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20J5%20%283%29.JPG
+http://www.wikidata.org/entity/Q21012827,Moto G (3rd generation),http://commons.wikimedia.org/wiki/Special:FilePath/Moto%20G%203rd%20XT1543%20Unboxed%20%281%29.jpg
+http://www.wikidata.org/entity/Q21013354,BlackBerry Priv,http://commons.wikimedia.org/wiki/Special:FilePath/AT%26T%20Blackberry%20Priv%20%28STV100-1%29.jpg
+http://www.wikidata.org/entity/Q21017083,Redmi Note 2,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%20Redmi%20Note%202.jpg
+http://www.wikidata.org/entity/Q21031158,Nexus 5X,http://commons.wikimedia.org/wiki/Special:FilePath/Nexus%205X%20%28White%29.jpg
+http://www.wikidata.org/entity/Q21041304,LG G3 Stylus,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20G3%20Stylus%20%28Black%2C%20Front%29.jpg
+http://www.wikidata.org/entity/Q21041306,LG Leon,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20Leon%204G%20front.jpg
+http://www.wikidata.org/entity/Q21041360,Sony Xperia Z5 Compact,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%20Z5%20Compact%20PSD%20%E9%BB%84.png
+http://www.wikidata.org/entity/Q21070532,Microsoft Lumia 950,http://commons.wikimedia.org/wiki/Special:FilePath/Lumia950.jpg
+http://www.wikidata.org/entity/Q21080527,LG V10,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20V10.jpg
+http://www.wikidata.org/entity/Q21127687,Samsung Galaxy J1,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20J1%20Ace%20SM-J110M.jpg
+http://www.wikidata.org/entity/Q21157979,HTC One A9,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20One%20A9%20%2822328765446%29.jpg
+http://www.wikidata.org/entity/Q21233113,Acer Liquid Z630,http://commons.wikimedia.org/wiki/Special:FilePath/Acer-liquid-z630-T03.jpg
+http://www.wikidata.org/entity/Q21279769,OnePlus X,http://commons.wikimedia.org/wiki/Special:FilePath/OnePlus%20X.jpg
+http://www.wikidata.org/entity/Q21452166,Huawei Honor 7,http://commons.wikimedia.org/wiki/Special:FilePath/Huawei%20Honor%207.png
+http://www.wikidata.org/entity/Q21573120,Huawei P8 Lite,http://commons.wikimedia.org/wiki/Special:FilePath/HUAWEI%20P8%20LITE.jpg
+http://www.wikidata.org/entity/Q22075480,Samsung Galaxy J7,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20J7%20SM-J700M%20DS.jpg
+http://www.wikidata.org/entity/Q22100377,Samsung Galaxy A9 (2016),http://commons.wikimedia.org/wiki/Special:FilePath/Moviln%20Sam%20gal%20a9.jpg
+http://www.wikidata.org/entity/Q22100403,Samsung SM-G9198,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Flip.jpg
+http://www.wikidata.org/entity/Q22100403,Samsung SM-G9198,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Fold.jpg
+http://www.wikidata.org/entity/Q22341441,Xiaomi Redmi Note 3,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%20Redmi%20Note%203.jpg
+http://www.wikidata.org/entity/Q22813223,Freedom 251,http://commons.wikimedia.org/wiki/Special:FilePath/Freedom251image.jpg
+http://www.wikidata.org/entity/Q22906342,LG G5,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20G5.jpg
+http://www.wikidata.org/entity/Q22906902,Microsoft Lumia 650,http://commons.wikimedia.org/wiki/Special:FilePath/Lumia%20650%20Rear.jpg
+http://www.wikidata.org/entity/Q22907107,Cat S60,http://commons.wikimedia.org/wiki/Special:FilePath/S60%20in%20Snow.jpg
+http://www.wikidata.org/entity/Q22907284,Nextbit Robin,http://commons.wikimedia.org/wiki/Special:FilePath/Nextbit%20Robin%20smartphone%20%28cropped%29.jpg
+http://www.wikidata.org/entity/Q22908473,Samsung Galaxy A5 (2016),http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20A5%202016.jpg
+http://www.wikidata.org/entity/Q22908999,HTC Desire 500,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20Desire%20500%20Dual%20Sim%20Black%20Model.JPG
+http://www.wikidata.org/entity/Q22909028,Huawei Honor 5X,http://commons.wikimedia.org/wiki/Special:FilePath/Huawei%20Honor%205X%20-%20Mobile%20World%20Congress%202016%20%2824871702443%29.jpg
+http://www.wikidata.org/entity/Q22964473,Sony Xperia XA,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%20XA.jpg
+http://www.wikidata.org/entity/Q22971944,LG K10,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20K10%20%28White%29.jpg
+http://www.wikidata.org/entity/Q22978009,Xiaomi Mi 5,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%20Mi%205%20%2826666515916%29.jpg
+http://www.wikidata.org/entity/Q22985287,Sony Xperia X,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%20X%20%2826693301985%29.jpg
+http://www.wikidata.org/entity/Q23017216,Meizu Pro 5,http://commons.wikimedia.org/wiki/Special:FilePath/Meizu%20PRO%205.png
+http://www.wikidata.org/entity/Q23038830,Sony Xperia X Performance,http://commons.wikimedia.org/wiki/Special:FilePath/Xperia%20x%20performance%20sov33.jpg
+http://www.wikidata.org/entity/Q23816876,HTC 10,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%2010.svg
+http://www.wikidata.org/entity/Q24261461,Moto G4,http://commons.wikimedia.org/wiki/Special:FilePath/Moto%20G4%20Play%20Moto%20G4%20and%20Moto%20G4%20Plus.png
+http://www.wikidata.org/entity/Q24265331,HTC One X9,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20One%20A9%20-%20Mobile%20World%20Congress%202016%20%2824871638573%29.jpg
+http://www.wikidata.org/entity/Q24283068,LG X Cam,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20X%20Cam.jpg
+http://www.wikidata.org/entity/Q24576869,Huawei P9,http://commons.wikimedia.org/wiki/Special:FilePath/Huawei%20p9%20front.jpg
+http://www.wikidata.org/entity/Q24834145,Huawei G8,http://commons.wikimedia.org/wiki/Special:FilePath/HUAWEl%200210513%20200147.jpg
+http://www.wikidata.org/entity/Q24837380,ASUS ZenFone 3,http://commons.wikimedia.org/wiki/Special:FilePath/ZENFONE%203.jpg
+http://www.wikidata.org/entity/Q24896113,Moto Z,http://commons.wikimedia.org/wiki/Special:FilePath/Moto%20Z%20Hasselblad%20True%20Zoom%20%2832664949012%29.jpg
+http://www.wikidata.org/entity/Q24911258,Samsung Galaxy Grand Prime,http://commons.wikimedia.org/wiki/Special:FilePath/Tel%20samsung%20gal%20prime.JPG
+http://www.wikidata.org/entity/Q25340010,Samsung Galaxy A9 Pro,http://commons.wikimedia.org/wiki/Special:FilePath/Moviln%20Sam%20gal%20a9.jpg
+http://www.wikidata.org/entity/Q25405622,Q25405622,http://commons.wikimedia.org/wiki/Special:FilePath/ZTE%20Blade%20S6%20Plus.jpg
+http://www.wikidata.org/entity/Q25442316,ZTE Axon 7,http://commons.wikimedia.org/wiki/Special:FilePath/ZTE%20Axon%207.jpg
+http://www.wikidata.org/entity/Q25456066,LG G4 Beat,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20G4%20Beat.jpg
+http://www.wikidata.org/entity/Q26213135,Samsung Galaxy J5 2016,http://commons.wikimedia.org/wiki/Special:FilePath/J5%202016.jpg
+http://www.wikidata.org/entity/Q26215540,Alcatel Idol 4,http://commons.wikimedia.org/wiki/Special:FilePath/Alcatel%20Idol%204%20with%20VR%20box.jpg
+http://www.wikidata.org/entity/Q26666410,Meizu M3 Note,http://commons.wikimedia.org/wiki/Special:FilePath/Meizu%20M3%20Note.png
+http://www.wikidata.org/entity/Q26740131,Sony Xperia XZ,http://commons.wikimedia.org/wiki/Special:FilePath/NTT%20docomo%20SO-01J%2001.jpg
+http://www.wikidata.org/entity/Q26746259,Sony Xperia X Compact,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%20X%20Compact%20PSD.png
+http://www.wikidata.org/entity/Q26868391,LG V20,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20V20.jpg
+http://www.wikidata.org/entity/Q27074908,Meizu MX6,http://commons.wikimedia.org/wiki/Special:FilePath/Meizu%20MX6.png
+http://www.wikidata.org/entity/Q27096258,Google Pixel 1,http://commons.wikimedia.org/wiki/Special:FilePath/Pixel%20%28smartphone%29%205%20inch%20silver%20mock.png
+http://www.wikidata.org/entity/Q27302807,Google Pixel XL smartphone,http://commons.wikimedia.org/wiki/Special:FilePath/Google%20Pixel%20XL%20Really%20Blue%2002.jpg
+http://www.wikidata.org/entity/Q27504584,Xiaomi Mi Note Pro,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%20Mi%20Note%20Pro.jpg
+http://www.wikidata.org/entity/Q27504611,Meizu M3 Max,http://commons.wikimedia.org/wiki/Special:FilePath/Meizu%20M3%20Max.png
+http://www.wikidata.org/entity/Q27504636,Redmi Note 4,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%20Redmi%20Note%204%20Front.jpg
+http://www.wikidata.org/entity/Q28049363,Meizu PRO 6,http://commons.wikimedia.org/wiki/Special:FilePath/Meizu%20PRO%206.png
+http://www.wikidata.org/entity/Q28054810,Samsung Galaxy J3 (2016),http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20J3%20%282016%29.png
+http://www.wikidata.org/entity/Q28127145,Meizu PRO 5 Ubuntu Edition,http://commons.wikimedia.org/wiki/Special:FilePath/Meizu%20PRO%205.png
+http://www.wikidata.org/entity/Q28127147,HP Elite x3,http://commons.wikimedia.org/wiki/Special:FilePath/HP%20Elite%20X3.png
+http://www.wikidata.org/entity/Q28150977,Nokia 6,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%206%20camera.jpg
+http://www.wikidata.org/entity/Q28187447,Lenovo Z2 Plus,http://commons.wikimedia.org/wiki/Special:FilePath/Lenovo-Z2-Plus-32GB-Black-SDL541757256-5-9775a.jpg
+http://www.wikidata.org/entity/Q28198449,LG X Power,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20X%20Power%20%E8%A3%8F%E9%9D%A2.jpg
+http://www.wikidata.org/entity/Q28224350,Xiaomi Mi Note 2,http://commons.wikimedia.org/wiki/Special:FilePath/XiaomiMiNote2front20180314.jpg
+http://www.wikidata.org/entity/Q28380887,HTC U Ultra,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20U%20Ultra.png
+http://www.wikidata.org/entity/Q28418050,ASUS ZenFone AR,http://commons.wikimedia.org/wiki/Special:FilePath/Zenfone%20ar.jpg
+http://www.wikidata.org/entity/Q28418333,HTC U Play,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20U%20Play%20Brilliant%20Black%20box%2020170521.jpg
+http://www.wikidata.org/entity/Q28446159,Samsung Galaxy J1 Ace Neo,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20j1%20Ace.jpg
+http://www.wikidata.org/entity/Q28447832,Huawei Honor 8,http://commons.wikimedia.org/wiki/Special:FilePath/Honor%208%20black%20-%20reverse.jpg
+http://www.wikidata.org/entity/Q28481803,LG G Vista 2,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20G%20Vista%202.jpg
+http://www.wikidata.org/entity/Q28650885,Samsung Galaxy C9 Pro,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20C9%20Pro.png
+http://www.wikidata.org/entity/Q28685574,LG isai Beat,http://commons.wikimedia.org/wiki/Special:FilePath/Lgv34%20front.jpg
+http://www.wikidata.org/entity/Q28690017,AQUOS CRYSTAL Y2 403SH,http://commons.wikimedia.org/wiki/Special:FilePath/AQUOS%20CRYSTAL%20Y2%20403SH%20Turquoise%20front.jpg
+http://www.wikidata.org/entity/Q28693358,507SH,http://commons.wikimedia.org/wiki/Special:FilePath/507SH%20White%20front%20bottom-right.jpg
+http://www.wikidata.org/entity/Q28700905,LG K10 2017,http://commons.wikimedia.org/wiki/Special:FilePath/LG%EC%A0%84%EC%9E%90%2C%2020%EB%A7%8C%20%EC%9B%90%EB%8C%80%20%EC%8B%A4%EC%86%8D%ED%98%95%20%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%20LG%20X401%20%EC%B6%9C%EC%8B%9C.jpg
+http://www.wikidata.org/entity/Q28725846,Samsung Galaxy A3,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20A3%202017.png
+http://www.wikidata.org/entity/Q28843160,LG G6,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20G6%20%EC%A0%9C%ED%92%88%EC%82%AC%EC%A7%84.png
+http://www.wikidata.org/entity/Q28843594,Nokia 5,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%205.jpg
+http://www.wikidata.org/entity/Q28845516,Nokia 3,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%203%20camera.jpg
+http://www.wikidata.org/entity/Q28854987,Sony Xperia XZ Premium,http://commons.wikimedia.org/wiki/Special:FilePath/Xperia%20XZ%20Premium.png
+http://www.wikidata.org/entity/Q28971906,BlackBerry KEYone,http://commons.wikimedia.org/wiki/Special:FilePath/BlackBerry%20KEYone.png
+http://www.wikidata.org/entity/Q29002235,Huawei P10,http://commons.wikimedia.org/wiki/Special:FilePath/Huawei%20P10.jpg
+http://www.wikidata.org/entity/Q29169141,Moto Z Play smartphone,http://commons.wikimedia.org/wiki/Special:FilePath/Motozplay%20white.png
+http://www.wikidata.org/entity/Q29197075,Samsung Galaxy S8+,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20S.jpg
+http://www.wikidata.org/entity/Q29197075,Samsung Galaxy S8+,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20S8%20and%20S8%20Plus.png
+http://www.wikidata.org/entity/Q29578330,Sony Xperia XZs,http://commons.wikimedia.org/wiki/Special:FilePath/SONY%20Xperia%20XZs%20SO-03J.jpg
+http://www.wikidata.org/entity/Q29578337,Moto G5,http://commons.wikimedia.org/wiki/Special:FilePath/Moto%20G5.png
+http://www.wikidata.org/entity/Q29973575,HTC U11,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20U11.png
+http://www.wikidata.org/entity/Q30092999,Essential Phone,http://commons.wikimedia.org/wiki/Special:FilePath/Essential%20Phone%20in%20ocean%20depths.jpg
+http://www.wikidata.org/entity/Q30326193,Huawei Honor 8 Pro,http://commons.wikimedia.org/wiki/Special:FilePath/Huawei%20Honor%208%20Pro.jpg
+http://www.wikidata.org/entity/Q30634800,Samsung Galaxy J2 Prime,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20J2%20Prime.png
+http://www.wikidata.org/entity/Q30944177,ASUS ZenFone Selfie,http://commons.wikimedia.org/wiki/Special:FilePath/Zenfone-selfie.jpg
+http://www.wikidata.org/entity/Q31088292,Huawei Honor 9,http://commons.wikimedia.org/wiki/Special:FilePath/Huawei%20Honor%209.jpg
+http://www.wikidata.org/entity/Q38335609,Samsung Galaxy J5 2017,http://commons.wikimedia.org/wiki/Special:FilePath/J5%202017%20front.jpg
+http://www.wikidata.org/entity/Q40416554,Xiaomi Mi MIX 2,http://commons.wikimedia.org/wiki/Special:FilePath/Mi%20mix%202%20front%20back.png
+http://www.wikidata.org/entity/Q41922571,Xiaomi Mi 5X,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%20Mi%205X.jpg
+http://www.wikidata.org/entity/Q42253819,Sony Xperia XZ1 Compact,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%20XZ1%20Compact.jpg
+http://www.wikidata.org/entity/Q42628168,Moto C,http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%20Moto%20C%20XT1750.jpg
+http://www.wikidata.org/entity/Q43881401,Samsung Galaxy J7 2017,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20J7%20%282017%29.png
+http://www.wikidata.org/entity/Q45319400,Samsung Galaxy J7 Prime,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20J7%20Prime.jpg
+http://www.wikidata.org/entity/Q46206743,HTC U11+,http://commons.wikimedia.org/wiki/Special:FilePath/Htc%20U11%EF%BC%8B.png
+http://www.wikidata.org/entity/Q47007022,Redmi Note 5A,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%20redmi%20y1.jpg
+http://www.wikidata.org/entity/Q47086784,Nokia 6.1,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%206.1.jpg
+http://www.wikidata.org/entity/Q47500353,Samsung Galaxy A8 (2018),http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20A8%20%282018%29.png
+http://www.wikidata.org/entity/Q48780705,Asus ZenFone 4,http://commons.wikimedia.org/wiki/Special:FilePath/Zenfone%204%20%E6%98%9F%E7%A9%BA%E9%BB%91%E6%AD%A3%E9%9D%A2.svg
+http://www.wikidata.org/entity/Q48836920,Huawei P8 Lite 2017,http://commons.wikimedia.org/wiki/Special:FilePath/Huawei%20P8%20Lite%202017-3352.jpg
+http://www.wikidata.org/entity/Q48838484,Sony Xperia XA2,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%20XA2.png
+http://www.wikidata.org/entity/Q48838562,Xiaomi Mi 6,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%20MI6.jpg
+http://www.wikidata.org/entity/Q48913646,Asus ZenFone 6,http://commons.wikimedia.org/wiki/Special:FilePath/ZenFone%206%20Mockup.svg
+http://www.wikidata.org/entity/Q48936585,Redmi Note 5,http://commons.wikimedia.org/wiki/Special:FilePath/XiaomiRedmiNote5front.jpg
+http://www.wikidata.org/entity/Q50102300,Samsung Galaxy S9,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20S9.png
+http://www.wikidata.org/entity/Q50181894,Nokia 8110 4G,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%208110%204G.png
+http://www.wikidata.org/entity/Q50183659,Xperia XZ2 Compact,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%20XZ2%20Compact%20002.jpg
+http://www.wikidata.org/entity/Q50215807,Nokia 1,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%201.png
+http://www.wikidata.org/entity/Q51845248,Huawei P20,http://commons.wikimedia.org/wiki/Special:FilePath/Huawei%20P20%20Pro%20in%20Paris.jpg
+http://www.wikidata.org/entity/Q51885191,Sony Xperia XZ2 Premium,http://commons.wikimedia.org/wiki/Special:FilePath/Xperia%20XZ2%20Premium.png
+http://www.wikidata.org/entity/Q52852708,LG G7 ThinQ,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20G7%20%EC%94%BD%ED%81%90%20%2841861272131%29.jpg
+http://www.wikidata.org/entity/Q53233711,Nokia 7 Plus,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%207%20Plus.jpg
+http://www.wikidata.org/entity/Q53645452,OnePlus 6,http://commons.wikimedia.org/wiki/Special:FilePath/OnePlus%206%20Front2.jpg
+http://www.wikidata.org/entity/Q53953535,Moto M,http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%20Moto%20M.png
+http://www.wikidata.org/entity/Q53997703,HTC U12+,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20U12%2B%20Mockup.png
+http://www.wikidata.org/entity/Q54167198,Xiaomi Mi MIX 2S,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%20Mi%20MIX%202s.jpg
+http://www.wikidata.org/entity/Q54664353,Huawei Honor 10,http://commons.wikimedia.org/wiki/Special:FilePath/Smartphone%20Honor%2010.png
+http://www.wikidata.org/entity/Q54824058,Q54824058,http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%20Moto%20X%20Style%20%2822033955888%29.jpg
+http://www.wikidata.org/entity/Q54864577,Xiaomi Mi 8,http://commons.wikimedia.org/wiki/Special:FilePath/XiaomiMi8ProFront20190714.jpg
+http://www.wikidata.org/entity/Q54958899,Moto G6,http://commons.wikimedia.org/wiki/Special:FilePath/MOTOROLA%20XT1925.JPG
+http://www.wikidata.org/entity/Q54959062,Samsung Galaxy J1 Nxt,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20galaxy%20j106.jpg
+http://www.wikidata.org/entity/Q55099623,Xiaomi Mi 8 EE,http://commons.wikimedia.org/wiki/Special:FilePath/Mi%208%20Explorer%20.jpg
+http://www.wikidata.org/entity/Q55605544,BlackBerry KEY2,http://commons.wikimedia.org/wiki/Special:FilePath/BlackBerry%C2%AE%20KEY2.png
+http://www.wikidata.org/entity/Q55632437,Samsung Galaxy J1 (2016),http://commons.wikimedia.org/wiki/Special:FilePath/Sam%20j1%20blanco.jpeg
+http://www.wikidata.org/entity/Q55632440,Samsung Galaxy J2 (2016),http://commons.wikimedia.org/wiki/Special:FilePath/Galaxy%20J2%20Spanish.jpg
+http://www.wikidata.org/entity/Q55632441,Samsung Galaxy J4,http://commons.wikimedia.org/wiki/Special:FilePath/%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%AC%20%D8%AC%D9%84%D8%A7%D9%83%D8%B3%D9%8A%20%D8%AC%D9%8A%204.jpg
+http://www.wikidata.org/entity/Q55632443,Samsung Galaxy J6,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20J6.png
+http://www.wikidata.org/entity/Q55632444,Samsung Galaxy J8,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20galaxy%20J8%20screen.jpg
+http://www.wikidata.org/entity/Q55662671,Elephone P8 Mini,http://commons.wikimedia.org/wiki/Special:FilePath/Elephone%20P8%20Mini%20%282018%29%2004.jpg
+http://www.wikidata.org/entity/Q55694209,Nokia 5.1 Plus,http://commons.wikimedia.org/wiki/Special:FilePath/HMD%20Nokia%205.1%20Plus%20Blue%20%28front%20and%20rear%29.jpg
+http://www.wikidata.org/entity/Q56271576,ASUS ZenFone 5,http://commons.wikimedia.org/wiki/Special:FilePath/%E8%8F%AF%E7%A2%A9ZENFONE%205.jpg
+http://www.wikidata.org/entity/Q56272051,Redmi 6A,http://commons.wikimedia.org/wiki/Special:FilePath/Redmi%206A%20Blue%2013%D0%B2%D1%96%D0%BA%D1%96.jpg
+http://www.wikidata.org/entity/Q56272052,Xiaomi Mi A2 Lite,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%20Mi%20A2%20Lite%20%281%29.jpg
+http://www.wikidata.org/entity/Q56297658,Librem 5,http://commons.wikimedia.org/wiki/Special:FilePath/Librem5%20Azdle%2009%20desktop.jpg
+http://www.wikidata.org/entity/Q56368140,Huawei P20 Pro,http://commons.wikimedia.org/wiki/Special:FilePath/Huawei%20P20%20Pro%20in%20Paris.jpg
+http://www.wikidata.org/entity/Q56368495,Huawei Nova 3i,http://commons.wikimedia.org/wiki/Special:FilePath/Huawei%20Nova%203i.jpg
+http://www.wikidata.org/entity/Q56377709,Huawei P10 Lite,http://commons.wikimedia.org/wiki/Special:FilePath/Huawei%20p10%20lite.png
+http://www.wikidata.org/entity/Q56401768,Huawei Honor 8 Lite,http://commons.wikimedia.org/wiki/Special:FilePath/Huawei%20Honor%208%20Lite.jpg
+http://www.wikidata.org/entity/Q56731673,Sony Xperia XZ3,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%20XZ3.png
+http://www.wikidata.org/entity/Q56755071,OPPO F9,http://commons.wikimedia.org/wiki/Special:FilePath/F9%20vector.jpg
+http://www.wikidata.org/entity/Q57972349,OnePlus 6T,http://commons.wikimedia.org/wiki/Special:FilePath/Oneplus%206T.jpg
+http://www.wikidata.org/entity/Q59154195,Nokia 2.1,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%202.1.png
+http://www.wikidata.org/entity/Q59354573,Yandex Smartphone,http://commons.wikimedia.org/wiki/Special:FilePath/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD.jpg
+http://www.wikidata.org/entity/Q59357246,Oppo R17,http://commons.wikimedia.org/wiki/Special:FilePath/R17%20Pro%20vector.jpg
+http://www.wikidata.org/entity/Q60199034,Xiaomi Pocophone F1,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%20Poco%20F1%20on%20Wikipedia.jpg
+http://www.wikidata.org/entity/Q60753363,LG V40 ThinQ,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20V40%20front.png
+http://www.wikidata.org/entity/Q60754786,Redmi Note 6 Pro,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%20Redmi%20Note%206%20Pro.jpg
+http://www.wikidata.org/entity/Q60762065,Samsung Galaxy A8s,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20A8s.png
+http://www.wikidata.org/entity/Q60872929,Redmi Note 7,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%20Redmi%20Note%207%204%20GB%20Cropped.jpg
+http://www.wikidata.org/entity/Q60989848,Samsung Galaxy J5 Prime,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20J5%20Prime.jpg
+http://www.wikidata.org/entity/Q61091361,LG Q7,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20Q7%20%EA%B5%AD%EB%82%B4%20%EC%B6%9C%EC%8B%9C%20-%20Flickr%20-%20LGEPR%20%284%29.jpg
+http://www.wikidata.org/entity/Q61091369,LG V35 ThinQ,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20V35%20ThinQ%20%EA%B5%AD%EB%82%B4%20%EC%B6%9C%EC%8B%9C%20-%2043155670632.jpg
+http://www.wikidata.org/entity/Q61366768,Huawei Y5 2017,http://commons.wikimedia.org/wiki/Special:FilePath/Hwa%20Y5%20may%202018.jpg
+http://www.wikidata.org/entity/Q61721774,Xiaomi Mi 9,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%20MI%209%20frontpanel.jpg
+http://www.wikidata.org/entity/Q61783122,Samsung Galaxy Fold,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Fold.png
+http://www.wikidata.org/entity/Q61913556,Sony Xperia 1,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%201.png
+http://www.wikidata.org/entity/Q61996965,Nokia 9 PureView,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%209%20Pureview%202.jpg
+http://www.wikidata.org/entity/Q62063540,Moto G7,http://commons.wikimedia.org/wiki/Special:FilePath/G7%20power%20at%20Best%20Buy%20jeh.jpg
+http://www.wikidata.org/entity/Q62793603,Huawei P30 Pro,http://commons.wikimedia.org/wiki/Special:FilePath/Huawei%20P30%20Pro%20R%C3%BCckseite.jpg
+http://www.wikidata.org/entity/Q63118842,LG G8 ThinQ,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20G8%20ThinQ%20%28cropped%29.png
+http://www.wikidata.org/entity/Q63858911,OnePlus 7,http://commons.wikimedia.org/wiki/Special:FilePath/OnePlus%207%20Pro.jpg
+http://www.wikidata.org/entity/Q64015157,Pixel 3a,http://commons.wikimedia.org/wiki/Special:FilePath/Pixel%203a%20XL%20Android%20Pie%20Always-On%20Display.jpg
+http://www.wikidata.org/entity/Q64819686,Samsung Galaxy A50,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20A50%20screen.jpg
+http://www.wikidata.org/entity/Q64889429,Samsung Galaxy A40,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20A40.jpg
+http://www.wikidata.org/entity/Q65033630,Samsung Galaxy A80,http://commons.wikimedia.org/wiki/Special:FilePath/GalaxyA80Phone%20Transparent.png
+http://www.wikidata.org/entity/Q65059301,Samsung Galaxy A70,http://commons.wikimedia.org/wiki/Special:FilePath/GalaxyA70Phone.png
+http://www.wikidata.org/entity/Q65062493,Samsung Galaxy A10,http://commons.wikimedia.org/wiki/Special:FilePath/GalaxyA10.png
+http://www.wikidata.org/entity/Q65063329,LG V50 ThinQ,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20V50%20ThinQ%20%28cropped%29.png
+http://www.wikidata.org/entity/Q65200219,Huawei P30 lite,http://commons.wikimedia.org/wiki/Special:FilePath/Huawei%20P30%20lite.jpg
+http://www.wikidata.org/entity/Q65259897,Samsung Galaxy Watch Active,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Watch%20Active.jpg
+http://www.wikidata.org/entity/Q65667471,Xiaomi Mi A3,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%20Mi%20A3%2C%20Android%20One%2C%20Not%20just%20Blue%2C%20Smartphone%201.jpg
+http://www.wikidata.org/entity/Q66209066,Samsung Galaxy Note 10,http://commons.wikimedia.org/wiki/Special:FilePath/Galaxy%20note.png
+http://www.wikidata.org/entity/Q66209066,Samsung Galaxy Note 10,http://commons.wikimedia.org/wiki/Special:FilePath/Galaxy%20Note.png
+http://www.wikidata.org/entity/Q66209066,Samsung Galaxy Note 10,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Phone.jpg
+http://www.wikidata.org/entity/Q66209066,Samsung Galaxy Note 10,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20smartphone.jpg
+http://www.wikidata.org/entity/Q66688566,Samsung Galaxy S10+,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20S10%2B.png
+http://www.wikidata.org/entity/Q67174340,Fairphone 3,http://commons.wikimedia.org/wiki/Special:FilePath/Fairphone%203%20Angle%20%2848858511188%29%20%28cropped%29.png
+http://www.wikidata.org/entity/Q67469677,realme 5 Pro,http://commons.wikimedia.org/wiki/Special:FilePath/Realme-5-pro.jpg
+http://www.wikidata.org/entity/Q67876968,Samsung Galaxy A90 5G,http://commons.wikimedia.org/wiki/Special:FilePath/%EC%82%BC%EC%84%B1%20%EA%B0%A4%EB%9F%AD%EC%8B%9C%20A90.jpg
+http://www.wikidata.org/entity/Q67887123,OPPO R7s,http://commons.wikimedia.org/wiki/Special:FilePath/Oppo%20R7%20Plus%20smartphone%20%2826420357270%29.jpg
+http://www.wikidata.org/entity/Q67936452,Xiaomi Mi MIX Alpha,http://commons.wikimedia.org/wiki/Special:FilePath/MIX%20Alpha.svg
+http://www.wikidata.org/entity/Q68025803,Samsung Galaxy A30,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20A30.jpg
+http://www.wikidata.org/entity/Q68163697,Redmi Note 8 Pro,http://commons.wikimedia.org/wiki/Special:FilePath/Redmi%20Note8%20Pro.png
+http://www.wikidata.org/entity/Q70956086,Pixel 4,http://commons.wikimedia.org/wiki/Special:FilePath/Pixel%204%20schematic.svg
+http://www.wikidata.org/entity/Q71620144,Samsung Galaxy Note 10+,http://commons.wikimedia.org/wiki/Special:FilePath/Galaxy%20note.png
+http://www.wikidata.org/entity/Q71620144,Samsung Galaxy Note 10+,http://commons.wikimedia.org/wiki/Special:FilePath/Galaxy%20Note.png
+http://www.wikidata.org/entity/Q73164191,Google Pixel 2 XL,http://commons.wikimedia.org/wiki/Special:FilePath/Pixel%202%20XL.svg
+http://www.wikidata.org/entity/Q73164248,Google Pixel 2,http://commons.wikimedia.org/wiki/Special:FilePath/Pixel%202%20Vector.svg
+http://www.wikidata.org/entity/Q73168617,realme 3,http://commons.wikimedia.org/wiki/Special:FilePath/REALME%203.jpg
+http://www.wikidata.org/entity/Q73325769,Realme C1,http://commons.wikimedia.org/wiki/Special:FilePath/Realme%20C1.jpg
+http://www.wikidata.org/entity/Q84368488,Tecno Camon 12 Air,http://commons.wikimedia.org/wiki/Special:FilePath/Camon%2012%20Air%20back.jpg
+http://www.wikidata.org/entity/Q84368489,Tecno Camon 12,http://commons.wikimedia.org/wiki/Special:FilePath/Camon%2012%20fingerprint.jpg
+http://www.wikidata.org/entity/Q84458425,Samsung Galaxy S20+,http://commons.wikimedia.org/wiki/Special:FilePath/SamsungGalaxyS20plus5G128G2020SMG9860TaiwanFrontInitial20200910.jpg
+http://www.wikidata.org/entity/Q84849860,Samsung Galaxy A51,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20A51%20front.png
+http://www.wikidata.org/entity/Q84882182,Samsung Galaxy Z Flip,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Z%20Flip%20fold%20cr.jpg
+http://www.wikidata.org/entity/Q84882182,Samsung Galaxy Z Flip,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Z%205G.jpg
+http://www.wikidata.org/entity/Q84882182,Samsung Galaxy Z Flip,http://commons.wikimedia.org/wiki/Special:FilePath/Galaxy%20Z%20Flip%205G%20%26%20Galaxy%20Z%20Fold2%205G.jpg
+http://www.wikidata.org/entity/Q84949463,Samsung Galaxy S20 Ultra,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20S20%20Ultra.png
+http://www.wikidata.org/entity/Q85004354,Redmi K30,http://commons.wikimedia.org/wiki/Special:FilePath/Redmi%20K30%20front.jpg
+http://www.wikidata.org/entity/Q85433784,Xiaomi Mi 10,http://commons.wikimedia.org/wiki/Special:FilePath/Mi%2010.jpg
+http://www.wikidata.org/entity/Q85789364,Nokia 105,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20105%20%282019%204th%20Edn%20Black%29%20%28during%20call%29%20%28transparent%29.png
+http://www.wikidata.org/entity/Q85796390,Redmi Note 9,http://commons.wikimedia.org/wiki/Special:FilePath/Redmi%2010X%284G%29.jpg
+http://www.wikidata.org/entity/Q85805417,Tecno Camon 12,http://commons.wikimedia.org/wiki/Special:FilePath/Camon%2012%20Air%20back.jpg
+http://www.wikidata.org/entity/Q85805419,Tecno Spark 4,http://commons.wikimedia.org/wiki/Special:FilePath/Spark-4-Back.jpg
+http://www.wikidata.org/entity/Q85840684,Huawei P40 Pro,http://commons.wikimedia.org/wiki/Special:FilePath/HUAWEI%20P40%20Pro%20Front.jpg
+http://www.wikidata.org/entity/Q85909431,Samsung Galaxy Note 10 Lite,http://commons.wikimedia.org/wiki/Special:FilePath/Galaxy%20Note%2010%20Lite.png
+http://www.wikidata.org/entity/Q85909431,Samsung Galaxy Note 10 Lite,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Note%2010%20Lite.png
+http://www.wikidata.org/entity/Q86265338,Sony Xperia 1 II,http://commons.wikimedia.org/wiki/Special:FilePath/Xperia%201%20II.jpg
+http://www.wikidata.org/entity/Q86598511,AQUOS Xx2 mini,http://commons.wikimedia.org/wiki/Special:FilePath/AQUOS%20Xx2%20mini%20Blue%20front%20bottom-left.jpg
+http://www.wikidata.org/entity/Q89522050,Samsung Galaxy A71,http://commons.wikimedia.org/wiki/Special:FilePath/GalaxyA71.png
+http://www.wikidata.org/entity/Q90413128,Samsung Galaxy A11,http://commons.wikimedia.org/wiki/Special:FilePath/Galaxy%20A11%20vector.png
+http://www.wikidata.org/entity/Q90563429,Redmi S2,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%20Redmi%20S2.jpg
+http://www.wikidata.org/entity/Q91658546,Shift6m,http://commons.wikimedia.org/wiki/Special:FilePath/Shift%206m.jpg
+http://www.wikidata.org/entity/Q91663305,SHIFT4.2,http://commons.wikimedia.org/wiki/Special:FilePath/Shift4.2%20%28Smartphone%29.jpg
+http://www.wikidata.org/entity/Q91783834,Pixel 3a XL,http://commons.wikimedia.org/wiki/Special:FilePath/Pixel%203a%20XL%20Android%20Pie%20Always-On%20Display.jpg
+http://www.wikidata.org/entity/Q94987913,Redmi K20 Pro,http://commons.wikimedia.org/wiki/Special:FilePath/Redmi%20K20%20Pro%20%E6%AD%A3%E9%9D%A2%E6%81%AF%E5%B1%8F%E7%85%A7.jpg
+http://www.wikidata.org/entity/Q94988341,Redmi K30 Pro,http://commons.wikimedia.org/wiki/Special:FilePath/The%20reverse%20side%20of%20Redmi%20K30%20Pro.jpg
+http://www.wikidata.org/entity/Q95980212,Samsung Galaxy A20s,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20A20s.jpg
+http://www.wikidata.org/entity/Q96240939,Samsung Galaxy Z Fold 2,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Z%20Fold%202.png
+http://www.wikidata.org/entity/Q96240939,Samsung Galaxy Z Fold 2,http://commons.wikimedia.org/wiki/Special:FilePath/Galaxy%20Fold%20%26%20Galaxy%20Flip.jpg
+http://www.wikidata.org/entity/Q96240939,Samsung Galaxy Z Fold 2,http://commons.wikimedia.org/wiki/Special:FilePath/Galaxy%20Z%205G.jpg
+http://www.wikidata.org/entity/Q96401350,Realme X50 Pro,http://commons.wikimedia.org/wiki/Special:FilePath/Smartphone%20realme%20X50%20Pro%205G.jpg
+http://www.wikidata.org/entity/Q97162239,Redmi 9A,http://commons.wikimedia.org/wiki/Special:FilePath/HK%20MK%20%E6%97%BA%E8%A7%92%20Mongkok%20%E5%BD%8C%E6%95%A6%E9%81%93%20601%20Nathan%20Road%20%E5%89%B5%E8%88%88%E5%BB%A3%E5%A0%B4%20Chong%20Hing%20Square%20shop%20%E5%B0%8F%E7%B1%B3%E4%B9%8B%E5%AE%B6%20%E6%97%97%E8%89%A6%E5%BA%97%20XiaoMi%20Store%20December%202021%20SS2%2006.jpg
+http://www.wikidata.org/entity/Q97190265,Honor 8A,http://commons.wikimedia.org/wiki/Special:FilePath/Honor%208A.png
+http://www.wikidata.org/entity/Q97223461,Samsung Galaxy A31,http://commons.wikimedia.org/wiki/Special:FilePath/GalaxyA31.png
+http://www.wikidata.org/entity/Q97223473,Samsung Galaxy A41,http://commons.wikimedia.org/wiki/Special:FilePath/GalaxyA41.png
+http://www.wikidata.org/entity/Q97305464,Redmi 9,http://commons.wikimedia.org/wiki/Special:FilePath/Back%20of%20Redmi%209%20sample%20in%20China%2020210307.jpg
+http://www.wikidata.org/entity/Q97349752,Samsung Galaxy M31,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20M31.jpg
+http://www.wikidata.org/entity/Q97380033,ZTE Axon 10 Pro,http://commons.wikimedia.org/wiki/Special:FilePath/Front%20of%20ZTE%20Axon%2010%20Pro.jpg
+http://www.wikidata.org/entity/Q98062104,Pixel 4a,http://commons.wikimedia.org/wiki/Special:FilePath/Pixel%204a%20back%20schematic.svg
+http://www.wikidata.org/entity/Q4033251,Acer beTouch E110,http://commons.wikimedia.org/wiki/Special:FilePath/Acer%20beTouch%20E110.png
+http://www.wikidata.org/entity/Q4040310,T-Mobile myTouch 3G Slide,http://commons.wikimedia.org/wiki/Special:FilePath/MyTouchSlideKeyboard.jpg
+http://www.wikidata.org/entity/Q4040312,HTC 7 Surround,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%207%20Surround.jpg
+http://www.wikidata.org/entity/Q4040313,HTC Pharos,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20P3470%20-%203%20years%20old..jpg
+http://www.wikidata.org/entity/Q4040315,HTC Himalaya,http://commons.wikimedia.org/wiki/Special:FilePath/Starmap%20Xda%20II.jpg
+http://www.wikidata.org/entity/Q4040323,HTC One V,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20One%20V%20T320e%20with%20Hami%20apps%20coupon%20from%20Senao%2020120616.jpg
+http://www.wikidata.org/entity/Q4040667,Highscreen Zeus,http://commons.wikimedia.org/wiki/Special:FilePath/Highscreen%20Zeus.jpg
+http://www.wikidata.org/entity/Q4040814,Huawei U8230,http://commons.wikimedia.org/wiki/Special:FilePath/Huawei%20u8230.JPG
+http://www.wikidata.org/entity/Q4042457,LG Optimus 3D Max,http://commons.wikimedia.org/wiki/Special:FilePath/Optimus%203D%20MAX.jpg
+http://www.wikidata.org/entity/Q4044580,Motorola Cliq,http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%20Dext%20%283949495679%29.jpg
+http://www.wikidata.org/entity/Q4046349,Palm Treo 500v,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Palm%20Treo%20500v%20with%20battery%20and%20back%20%281522781895%29.jpg
+http://www.wikidata.org/entity/Q4049458,Siemens SX1,http://commons.wikimedia.org/wiki/Special:FilePath/Siemens%20SX1%20mobile%20phone.jpg
+http://www.wikidata.org/entity/Q4049766,Sony Ericsson Live with Walkman,http://commons.wikimedia.org/wiki/Special:FilePath/WT19i%20%28no%20BG%29.png
+http://www.wikidata.org/entity/Q4049768,Sony Ericsson Xperia active,http://commons.wikimedia.org/wiki/Special:FilePath/Xperia%20Active.jpg
+http://www.wikidata.org/entity/Q4053460,Yotaphone,http://commons.wikimedia.org/wiki/Special:FilePath/%D0%99%D0%BE%D1%82%D0%B0%D0%A4%D0%BE%D0%BD.jpg
+http://www.wikidata.org/entity/Q4143058,Motorola Photon,http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%20Photon%204G%20%28250%29.jpg
+http://www.wikidata.org/entity/Q4356861,Sony Ericsson Z610,http://commons.wikimedia.org/wiki/Special:FilePath/3%20colors%20of%20Sony%20Ericsson%20Z610i%2020070627.jpg
+http://www.wikidata.org/entity/Q4673128,Acer X960,http://commons.wikimedia.org/wiki/Special:FilePath/Acer%20X960%20smartphone.jpg
+http://www.wikidata.org/entity/Q4673133,Acer beTouch E100/E101,http://commons.wikimedia.org/wiki/Special:FilePath/Acer%20betouch%20e100.jpg
+http://www.wikidata.org/entity/Q4673135,Acer beTouch E120,http://commons.wikimedia.org/wiki/Special:FilePath/Acer%20beTouch%20E120.jpg
+http://www.wikidata.org/entity/Q4673136,Acer beTouch E130,http://commons.wikimedia.org/wiki/Special:FilePath/Acer%20e130%20White.JPG
+http://www.wikidata.org/entity/Q4673164,Acer neoTouch P300,http://commons.wikimedia.org/wiki/Special:FilePath/Acer%20P300.jpg
+http://www.wikidata.org/entity/Q4673166,Acer neoTouch P400,http://commons.wikimedia.org/wiki/Special:FilePath/NeoTouch%20P400.jpg
+http://www.wikidata.org/entity/Q4977466,HTC One,http://commons.wikimedia.org/wiki/Special:FilePath/HTC%20One%20Silver.svg
+http://www.wikidata.org/entity/Q5289407,Nokia N80,http://commons.wikimedia.org/wiki/Special:FilePath/N80%202.jpg
+http://www.wikidata.org/entity/Q5308226,Droid 3,http://commons.wikimedia.org/wiki/Special:FilePath/DROID%203.jpg
+http://www.wikidata.org/entity/Q5308227,Droid 4,http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%20Droid4.jpg
+http://www.wikidata.org/entity/Q5308230,Droid Bionic,http://commons.wikimedia.org/wiki/Special:FilePath/Droid%20Bionic%20Android%204.1.2.jpg
+http://www.wikidata.org/entity/Q5367029,Motorola Milestone XT720,http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%20Milestone%20XT720%20front.jpg
+http://www.wikidata.org/entity/Q5389828,Samsung Galaxy Grand,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Grand%20Duos.jpg
+http://www.wikidata.org/entity/Q5419345,Samsung Galaxy Beam i8530,http://commons.wikimedia.org/wiki/Special:FilePath/Presentation12.jpg
+http://www.wikidata.org/entity/Q5503401,Huawei Ascend G600,http://commons.wikimedia.org/wiki/Special:FilePath/Huawei%20y%20600%20wiki.jpeg
+http://www.wikidata.org/entity/Q5635727,HP Pre 3,http://commons.wikimedia.org/wiki/Special:FilePath/HP%20Pre3.jpg
+http://www.wikidata.org/entity/Q5636066,HTC Evo 4G LTE,http://commons.wikimedia.org/wiki/Special:FilePath/HTCEvo4GLTE%20lockscreen.jpg
+http://www.wikidata.org/entity/Q5758774,HTC Salsa,http://commons.wikimedia.org/wiki/Special:FilePath/HTCSalsaImage.jpg
+http://www.wikidata.org/entity/Q5812783,Samsung Galaxy S4,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20S4.svg
+http://www.wikidata.org/entity/Q5926353,Huawei Ascend P1,http://commons.wikimedia.org/wiki/Special:FilePath/HUAWEI%20Ascend%20P1%20temp.jpeg
+http://www.wikidata.org/entity/Q5931952,Sony Xperia acro S,http://commons.wikimedia.org/wiki/Special:FilePath/Docomo%20XPERIA%20acro%20HD%20SO-03D%20Front%205.jpg
+http://www.wikidata.org/entity/Q6118093,Samsung Galaxy S II Plus,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20S%20II.png
+http://www.wikidata.org/entity/Q6451867,Kyocera 6035,http://commons.wikimedia.org/wiki/Special:FilePath/Kyocera6035.jpg
+http://www.wikidata.org/entity/Q6451872,Kyocera Echo,http://commons.wikimedia.org/wiki/Special:FilePath/Kyocera%20Echo%20open%20jeh.jpg
+http://www.wikidata.org/entity/Q6458447,LG LU2300,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20OPTIMUS%20Q.JPG
+http://www.wikidata.org/entity/Q6458490,LG VS740,http://commons.wikimedia.org/wiki/Special:FilePath/LGAlly.JPG
+http://www.wikidata.org/entity/Q7047993,Nokia Lumia 520,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20Lumia%20520%20Black.jpg
+http://www.wikidata.org/entity/Q7048001,Nokia Lumia 720,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%20Lumia%20720%20on%20hands.jpg
+http://www.wikidata.org/entity/Q7265181,Q7265181,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Ericsson%20W660i.jpg
+http://www.wikidata.org/entity/Q7410450,Samsung Corby Speed,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Corby%20speed.JPG
+http://www.wikidata.org/entity/Q7410481,Samsung Galaxy SL,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20S.svg
+http://www.wikidata.org/entity/Q7410521,Samsung Rugby Smart,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Rugby%20Smart%20AT%26T%20splash%20screen.jpeg
+http://www.wikidata.org/entity/Q7838634,Treo 270,http://commons.wikimedia.org/wiki/Special:FilePath/Handspring%20Treo%20270.jpg
+http://www.wikidata.org/entity/Q7838639,Treo 700p,http://commons.wikimedia.org/wiki/Special:FilePath/Treo700p.png
+http://www.wikidata.org/entity/Q7838642,Treo 750,http://commons.wikimedia.org/wiki/Special:FilePath/Treo750.jpg
+http://www.wikidata.org/entity/Q8217319,Sony Xperia SP,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperis%20SP%20Front.jpeg
+http://www.wikidata.org/entity/Q9333329,Samsung Galaxy Chat,http://commons.wikimedia.org/wiki/Special:FilePath/Chat-jellybean.JPG
+http://www.wikidata.org/entity/Q10367304,Samsung GT-i6220,http://commons.wikimedia.org/wiki/Special:FilePath/1324347547%20292810750%203-Celular-Samsung-Star-Tv-Gt-I6220-Touchscreen-Com-Tv-Digital-Sao-Paulo.jpg
+http://www.wikidata.org/entity/Q10614901,Asus Padfone 2,http://commons.wikimedia.org/wiki/Special:FilePath/ASUS%20PadFone%202.jpg
+http://www.wikidata.org/entity/Q10850869,Q10850869,http://commons.wikimedia.org/wiki/Special:FilePath/ISW13HT.jpg
+http://www.wikidata.org/entity/Q10852624,Sony Ericsson K610im,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Ericsson%20K610im.jpg
+http://www.wikidata.org/entity/Q10852629,Sony Ericsson W705,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Ericsson%20W705.jpg
+http://www.wikidata.org/entity/Q10852634,Q10852634,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Ericsson%20Z750i.jpg
+http://www.wikidata.org/entity/Q10854622,LG Optimus L5 II,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20E455%20Optimus%20L5%20II%20Dual-1802.jpg
+http://www.wikidata.org/entity/Q10854623,LG Optimus L7 II,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20P710%20Optimus%20L7%20II-4704.jpg
+http://www.wikidata.org/entity/Q11087755,Q11087755,http://commons.wikimedia.org/wiki/Special:FilePath/Benqmids6.jpg
+http://www.wikidata.org/entity/Q11198656,F-04E smartphone,http://commons.wikimedia.org/wiki/Special:FilePath/NTT%20DoCoMo%20F-04E%2020150205-01.JPG
+http://www.wikidata.org/entity/Q11198658,F-05B,http://commons.wikimedia.org/wiki/Special:FilePath/NTT%20Docomo%20F-05B.JPG
+http://www.wikidata.org/entity/Q11198697,F-12C,http://commons.wikimedia.org/wiki/Special:FilePath/F-12C-Front.jpg
+http://www.wikidata.org/entity/Q11199191,FJL21,http://commons.wikimedia.org/wiki/Special:FilePath/FJL21%20front.JPG
+http://www.wikidata.org/entity/Q98062104,Pixel 4a,http://commons.wikimedia.org/wiki/Special:FilePath/Pixel%204a%20front%20schematic.svg
+http://www.wikidata.org/entity/Q98148416,Samsung Galaxy M21,http://commons.wikimedia.org/wiki/Special:FilePath/M21%20photo.png
+http://www.wikidata.org/entity/Q98762009,Asus ZenFone 7,http://commons.wikimedia.org/wiki/Special:FilePath/ASUS%20Zenfone-7.jpg
+http://www.wikidata.org/entity/Q99179540,Samsung Galaxy A01,http://commons.wikimedia.org/wiki/Special:FilePath/Galaxy%20A01.png
+http://www.wikidata.org/entity/Q99440161,LG Wing,http://commons.wikimedia.org/wiki/Special:FilePath/LG%20%EC%9C%99%28LG%20Wing%29%2C%20%EC%9D%B8%EA%B8%B0%20%EC%95%84%EC%9D%B4%EB%8F%8C%20%EC%8A%88%ED%8D%BC%EC%97%A0%28SuperM%29%20%EB%AE%A4%EC%A7%81%EB%B9%84%EB%94%94%EC%98%A4%20%E2%80%98%EC%94%AC%EC%8A%A4%ED%8B%B8%EB%9F%AC%E2%80%99%EB%A1%9C%20%EB%93%B1%EC%9E%A5%20%2850464041023%29.jpg
+http://www.wikidata.org/entity/Q99701353,Oppo F11 Pro,http://commons.wikimedia.org/wiki/Special:FilePath/Oppo%20F11%20Pro%20%281%29.jpg
+http://www.wikidata.org/entity/Q99950036,Samsung Galaxy S20 FE,http://commons.wikimedia.org/wiki/Special:FilePath/GalaxyS20FE.png
+http://www.wikidata.org/entity/Q100286751,Sony Xperia 5 II,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%205%20II.png
+http://www.wikidata.org/entity/Q100348826,OnePlus 8T,http://commons.wikimedia.org/wiki/Special:FilePath/OnePlus%208T.jpg
+http://www.wikidata.org/entity/Q101244860,Q101244860,http://commons.wikimedia.org/wiki/Special:FilePath/Huawei%20Mate%20Xs.jpg
+http://www.wikidata.org/entity/Q102046793,Samsung Galaxy A42 5G,http://commons.wikimedia.org/wiki/Special:FilePath/20210830%20%EC%82%BC%EC%84%B1%20%EA%B0%A4%EB%9F%AD%EC%8B%9C%20A42.jpg
+http://www.wikidata.org/entity/Q102279550,Realme 7,http://commons.wikimedia.org/wiki/Special:FilePath/Realme7mistwhite.jpg
+http://www.wikidata.org/entity/Q104531763,Xiaomi Mi 11,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%20Mi%2011%20front.jpg
+http://www.wikidata.org/entity/Q104791838,Moto E7,http://commons.wikimedia.org/wiki/Special:FilePath/Moto%20e7%20wiki.jpg
+http://www.wikidata.org/entity/Q104856680,Moto E,http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%20moto%20e%20%282020%29%20Front.jpg
+http://www.wikidata.org/entity/Q104859286,Redmi K40 series,http://commons.wikimedia.org/wiki/Special:FilePath/The%20back%20of%20Redmi%20K40.jpg
+http://www.wikidata.org/entity/Q104868457,Redmi 8A,http://commons.wikimedia.org/wiki/Special:FilePath/Fastboot.jpg
+http://www.wikidata.org/entity/Q105763874,Redmi Note 10,http://commons.wikimedia.org/wiki/Special:FilePath/HK%20WTS%20%E9%BB%83%E5%A4%A7%E4%BB%99%20Wong%20Tai%20Sin%20%E9%BE%8D%E7%BF%94%E9%81%93%20Lung%20Cheung%20Road%20%E9%BE%8D%E7%BF%94%E4%B8%AD%E5%BF%83%E5%95%86%E5%A0%B4%20Temple%20Mall%20North%20September%202021%20SS2%2021.jpg
+http://www.wikidata.org/entity/Q106044016,Samsung Galaxy A52,http://commons.wikimedia.org/wiki/Special:FilePath/Samsung-Galaxy-A52-Awesome-White.jpg
+http://www.wikidata.org/entity/Q106341773,Nokia 5.4,http://commons.wikimedia.org/wiki/Special:FilePath/Nokia%205.4.jpg
+http://www.wikidata.org/entity/Q106348638,Oppo Find X3,http://commons.wikimedia.org/wiki/Special:FilePath/OPPO%20find%20x3%20front.jpg
+http://www.wikidata.org/entity/Q106504943,Sony Xperia 1 III,http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Xperia%201%20III.png
+http://www.wikidata.org/entity/Q106629718,Samsung Galaxy A52 5G,http://commons.wikimedia.org/wiki/Special:FilePath/HK%20%E9%A6%99%E6%B8%AF%E4%BB%94%20Aberdeen%20%E6%9D%B1%E5%8B%9D%E9%81%93%20Tung%20Sing%20Road%20shop%20Sun%20Mobile%20Telecom%20Digital%20Store%20March%202022%20SS2%2002.jpg
+http://www.wikidata.org/entity/Q106661429,Xiaomi Mi 11 Ultra,http://commons.wikimedia.org/wiki/Special:FilePath/Mi%2011%20Ultra%20front.jpg
+http://www.wikidata.org/entity/Q106917040,Honor Play,http://commons.wikimedia.org/wiki/Special:FilePath/Honor%20play.png
+http://www.wikidata.org/entity/Q106936054,Huawei GR3,http://commons.wikimedia.org/wiki/Special:FilePath/Huawei%20GR3%20TAG-L03.jpg
+http://www.wikidata.org/entity/Q107135797,Xiaomi Mi 11 Lite,http://commons.wikimedia.org/wiki/Special:FilePath/Mi%2011%20Lite%20camera%20lens%20group.jpg
+http://www.wikidata.org/entity/Q108044294,Samsung Galaxy A22 5G,http://commons.wikimedia.org/wiki/Special:FilePath/HK%20%E6%A8%82%E5%AF%8C%20Lok%20Fu%20Place%20Plaza%20%E6%A9%AB%E9%A0%AD%E7%A3%A1%20Wang%20Tau%20Hom%20mall%20shop%20Telecom%20Digital%20smartphones%20display%20December%202021%20SS2%2004.jpg
+http://www.wikidata.org/entity/Q108118280,iPhone 13,http://commons.wikimedia.org/wiki/Special:FilePath/IPhone%2013%20vector.svg
+http://www.wikidata.org/entity/Q108541719,iPhone 13 Pro,http://commons.wikimedia.org/wiki/Special:FilePath/IPhone%2013%20Pro%20vector.svg
+http://www.wikidata.org/entity/Q108713548,Xiaomi Civi,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%20Civi%20Screen.jpg
+http://www.wikidata.org/entity/Q109264718,Redmi 10,http://commons.wikimedia.org/wiki/Special:FilePath/HK%20MK%20%E6%97%BA%E8%A7%92%20Mongkok%20%E5%BD%8C%E6%95%A6%E9%81%93%20601%20Nathan%20Road%20%E5%89%B5%E8%88%88%E5%BB%A3%E5%A0%B4%20Chong%20Hing%20Square%20shop%20%E5%B0%8F%E7%B1%B3%E4%B9%8B%E5%AE%B6%20%E6%97%97%E8%89%A6%E5%BA%97%20XiaoMi%20Store%20December%202021%20SS2%2008.jpg
+http://www.wikidata.org/entity/Q109264762,Xiaomi 11T,http://commons.wikimedia.org/wiki/Special:FilePath/HK%20MK%20%E6%97%BA%E8%A7%92%20Mongkok%20%E5%BD%8C%E6%95%A6%E9%81%93%20601%20Nathan%20Road%20%E5%89%B5%E8%88%88%E5%BB%A3%E5%A0%B4%20Chong%20Hing%20Square%20shop%20%E5%B0%8F%E7%B1%B3%E4%B9%8B%E5%AE%B6%20%E6%97%97%E8%89%A6%E5%BA%97%20XiaoMi%20Store%20December%202021%20SS2%2018.jpg
+http://www.wikidata.org/entity/Q109264770,Meizu 18,http://commons.wikimedia.org/wiki/Special:FilePath/Meizu%2018%20Front.jpg
+http://www.wikidata.org/entity/Q109851604,Fairphone 4,http://commons.wikimedia.org/wiki/Special:FilePath/Fairphone%204.jpg
+http://www.wikidata.org/entity/Q110528997,OnePlus 9 Pro,http://commons.wikimedia.org/wiki/Special:FilePath/OnePlus%209%20Pro%20back.jpg
+http://www.wikidata.org/entity/Q110969178,Xiaomi 12,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%2012.jpg
+http://www.wikidata.org/entity/Q111280037,Samsung Galaxy A53 5G,http://commons.wikimedia.org/wiki/Special:FilePath/SamsungGalaxyA535G.png
+http://www.wikidata.org/entity/Q111521463,Redmi K50,http://commons.wikimedia.org/wiki/Special:FilePath/Redmi%20K50.jpg
